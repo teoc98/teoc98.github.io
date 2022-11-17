@@ -1,0 +1,312 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+          "http://www.w3.org/TR/html4/loose.dtd">
+<HTML LANG="it">
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<TITLE>Simulatore PLA - guida utente</TITLE>
+<LINK REL="stylesheet" HREF="style.css" TYPE="text/css">
+</HEAD>
+<BODY>
+
+<H2>Guida utente</H2>
+<P>Questa guida fornisce una visione d'insieme del simulatore e ne illustra
+aspetti e funzionalit&agrave; sotto una prospettiva di utente. Questa informazione
+complementa quella completa e dettagliata a livello dei componenti fornita dal 
+<B><A HREF="refdoc/index.html" TARGET="_blank">manuale di riferimento</A></B>
+(disponibile anche in <A HREF="refdoc/api.pdf" TARGET="_blank">versione pdf</A>). 
+</P>
+
+<UL>
+<LI><A HREF="#int">Introduzione</A></LI>
+<LI><A HREF="#pro">Programmazione logica</A></LI>
+<LI><A HREF="#run">Attivazione del circuito</A></LI>
+<LI><A HREF="#men">I menu</A></LI>
+<LI><A HREF="#lib">Libreria di circuiti</A></LI>
+<LI><A HREF="#opt">Opzioni da linea di comando</A></LI>
+</UL>
+
+<BR>
+<H3><A NAME="int">Introduzione</A></H3>
+<P>
+Il PLA (<I>Programmable Logic Array</I>) &egrave; un chip generale che consente di
+realizzare una variet&agrave; di circuiti logici collegando l'uscita di una schiera di
+porte AND ad una serie di porte OR. Le matrici di connessioni sono realizzate con
+dei microfusibili che possono essere bruciati selettivamente dall'utente, in
+modo da realizzare il circuito desiderato. Per una descrizione pi&ugrave; completa
+vedi <I>Architettura dei calcolatori</I> di A. Tanenbaum, V edizione,
+&sect;3.2.2 .
+</P>
+<P>
+Questo simulatore ha lo scopo di apprezzare visivamente il funzionamento del
+PLA, mostrando la sua circuiteria interna essenziale, in particolare le porte
+AND e OR, le matrici di connessione, i pin di ingresso e di uscita. E' possibile
+simulare la programmazione, assegnare valori agli ingressi, e vedere il
+corrispondente effetto sulle porte interne e sui pin di uscita. Anche se il
+simulatore &egrave; ampiamente flessibile per quanto riguarda il numero di componenti
+interni e le dimensioni delle corrispondenti matrici di collegamento, la
+complessit&agrave; dei circuiti che si intende simulare dipende dalla disponibilit&agrave;
+di uno schermo adeguato a visualizzare l'intera circuiteria logica interna.
+</P>
+<P>
+Per eseguire il simulatore basta posizionarsi nella directory <TT>code</TT>
+della distribuzione, e scrivere la seguente riga di comando:
+</P>
+<CODE>./pla.py</CODE>
+
+<BR>
+<H3><A NAME="pro">Programmazione logica</A></H3>
+<P>
+La prima operazione immediatamente disponibile all'utente non appena eseguito il
+simulatore &egrave; la sua programmazione, agendo sulle due matrici: quella di
+connessioni tra input e porte AND, e l'analoga tra uscite delle AND e ingressi
+delle porte OR. La fusione dei fusibili &egrave; simulata semplicemente cliccando con
+il tasto sinistro del mouse in prossimit&agrave; di un nodo delle matrici. Il
+simulatore ha il pregio, rispetto al suo equivalente fisico, di consentire
+all'utente anche di tornare sui suoi passi, rendendo nuovamente integro un
+fusibile precedentemente bruciato, cliccandoci nuovamente sopra.<BR>
+Lo stato di un fusibile &egrave; reso graficamente utilizzando la convenzione dei
+circuiti elettrici, di rappresentare con un pieno la connessione di due
+conduttori, e con un archetto il loro intersecarsi in isolamento.
+</P>
+<P>
+In aggiunta alla programmazione fine fusibile per fusibile, &egrave; possibile
+ottenere delle configurazioni in maniera globale, utilizzando altre
+funzionalit&agrave;
+<A HREF="#men">
+che verranno descritte pi&ugrave; avanti
+</A>
+.
+</P>
+
+<BR>
+<H3><A NAME="run">Attivazione del circuito</A></H3>
+<P>
+Una volta realizzata la logica desiderata, tramite la programmazione dei
+fusibili, il passo successivo &egrave; tipicamente la simulazione dell'attivit&agrave; del
+circuito, in risposta ai segnali di ingresso. Allo scopo basta premere il
+pulsante <TT>RUN</TT> posto in basso a sinistra, o in alternativa mediante i
+tasti <TT>R</TT> oppure <TT>r</TT> (senza necessit&agrave; di premere il tasto
+<TT>Invio</TT>). Si vedranno i valori logici delle porte interne AND, e nei pin
+di uscita (che corrispondono ai risultati delle porte interne OR).
+</P>
+<P>
+I segnali di ingresso si possono variare a piacere cliccando sui pulsanti
+corrispondenti ai pin, ogni click alterna il valore attuale.
+</P>
+
+<BR>
+<H3><A NAME="men">I menu</A></H3>
+<P>
+Il simulatore nella barra superiore dispone di due menu: <TT>Simulation</TT> e
+<TT>Library</TT>.
+Nel primo sono presenti tre funzionalit&agrave;: le prime due riguardano la
+programmazione logica, e permettono di ottenere con un solo comando due
+configurazioni estreme dei fusibili, tutti bruciati oppure tutti collegati. La
+terza opzione termina il simulatore. Per tutte e tre queste funzioni esistono
+alternative rapide con un singolo tasto, sia maiuscolo che minuscolo.
+</P>
+<P>
+Il menu <TT>Library</TT> mette a disposizione una serie di circuiti predefiniti,
+selezionando i quali le matrici di fusibili si predisporranno nella
+configurazione che realizza tali circuiti. Vengono inoltre aggiunte ai pin di
+ingresso e di uscita delle etichette testuali che codificano la semantica dei
+segnali, mantenendo ove possibile la stessa impiegata nel testo <I>Architettura
+dei calcolatori</I> di A. Tanenbaum, V edizione. La libreria &egrave; descritta in
+<A HREF="#lib">Libreria di circuiti</A>.
+</P>
+
+
+<BR>
+<H3><A NAME="lib">Libreria di circuiti</A></H3>
+<P>
+Al momento sono presenti i circuiti elencati qui a seguito, di cui si &egrave;
+indicata la figura nel testo di Tanenbaum e nel testo di C. Hamacher, Z. Vranesic, S. Zaky, N. Manjikian, ove disponibile. Da notare che, anche
+quando la figura &egrave; disponibile, il circuito simulato nel PLA vi corrisponde
+solo funzionalmente, ma la sua implementazione &egrave; diversa, dovendo seguire solo
+la struttura di porte AND e OR configurabile nel PLA.
+</P>
+
+<TABLE CLASS="fields">
+<TR>
+<TH>circuito</TH>
+<TH>figura Tanenbaum</TH>
+<TH>figura Hamacher</TH>
+</TR>
+<TR>
+<TD CLASS="s4">1 bit half adder</TD>
+<TD CLASS="s5">3.17</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">1 bit full adder</TD>
+<TD CLASS="s5">3.18</TD>
+<TD CLASS="s5">9.2 (a)</TD>
+</TR>
+<TR>
+<TD CLASS="s4">2 bit adder</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">6-bit ones' complement</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">4-bit twos' complement</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">2 bit multiplicator</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">6 bit square root floor</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">reductor 3-2</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">multiple logic gate</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">priority encoder</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">multiplexer</TD>
+<TD CLASS="s5">3.11</TD>
+<TD CLASS="s5">A.38</TD>
+</TR>
+<TR>
+<TD CLASS="s4">majority</TD>
+<TD CLASS="s5">3.3</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">decoder</TD>
+<TD CLASS="s5">3.13</TD>
+<TD CLASS="s5">A.36</TD>
+</TR>
+<TR>
+<TD CLASS="s4">decoder 4 bit - 7 segment</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">A.37</TD>
+</TR>
+<TR>
+<TD CLASS="s4">shift register</TD>
+<TD CLASS="s5">3.16</TD>
+<TD CLASS="s5">A.33</TD>
+</TR>
+<TR>
+<TD CLASS="s4">comparator</TD>
+<TD CLASS="s5">3.14</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">one step flip-flop SR</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">A.24</TD>
+</TR>
+<TR>
+<TD CLASS="s4">one step flip-flop T</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">A.30</TD>
+</TR>
+<TR>
+<TD CLASS="s4">one step flip-flop JK</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">A.31</TD>
+</TR>
+<TR>
+<TD CLASS="s4">Parity check (CRC-1)</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+<TR>
+<TD CLASS="s4">CRC-3-GSM</TD>
+<TD CLASS="s5">-</TD>
+<TD CLASS="s5">-</TD>
+</TR>
+
+</TABLE>
+<P>
+I polinomi generatori dei codici CRC realizzati in circuiti sono: 
+</P>
+
+<TABLE CLASS="fields">
+<TR>
+<TH>codice CRC</TH>
+<TH>polinomio generatore</TH>
+</TR>
+<TR>
+<TD CLASS="s4">CRC-1</TD>
+<TD CLASS="s5">x+1</TD>
+</TR>
+<TR>
+<TD CLASS="s4">CRC-3-GSM</TD>
+<TD CLASS="s5">x³+x+1</TD>
+</TR>
+
+</TABLE>
+
+<BR>
+<H3><A NAME="opt">Opzioni da linea di comando</A></H3>
+<P>
+L'esecuzione del simulatore prevede qualche opzione da linea di comando, che
+consente di variare alcuni dei principali parametri strutturali. La sintassi
+completa &egrave; la seguente:
+</P>
+<CODE>./pla.py [-x x_size][-a n_and][-i n_inputs][-o n_outputs][-h]</CODE>
+<P>
+dove le diverse opzioni, tutte facoltative, hanno l'effetto riassunto in questa
+lista:
+</P>
+<UL>
+<LI><I>-x</I> specifica la dimensione orizzontale della finestra del simulatore,
+espressa in pixel. Il valore di default &egrave; 800, pu&ograve; essere vantaggioso
+diminuirlo nel caso in cui si disponga di un dispositivo di visualizzazione a
+bassa risoluzione, come vecchi proiettori, per esempio un valore 500 &egrave; adatto
+per risoluzioni 800x600. Da notare che non &egrave; possibile specificare allo stesso
+modo la dimensione verticale, in quanto non &egrave; una variabile libera, ma viene
+calcolata automaticamente in base alla dimensione orizzontale, al numero di
+input, output, e porte AND.</LI>
+<LI><I>-a</I> specifica il numero di porte AND. Il suo valore di default &egrave; 16.
+Occorre fare attenzione qualora si usasse un numero inferiore, che i circuiti
+disponibili in libreria potrebbero non avere un numero sufficiente di porte per
+funzionare, in tal caso il programma non carica il circuito e viene mostrato un
+messaggio apposito. Inoltre occorre tener conto che combinazioni
+particolarmente inappropriate di numero di porte e dimensione orizzontale
+possono deformare la geometria del simulatore in modo da renderlo visivamente
+inadeguato.</LI>
+<LI><I>-i</I> specifica il numero di pin di input, valgono le stesse
+considerazioni dell'opzione <I>-a</I>.</LI>
+<LI><I>-o</I> specifica il numero di pin di output, valgono le stesse
+considerazioni dell'opzione <I>-a</I>. Notare che questo numero coincide con la
+quantit&agrave; di porte OR.</LI>
+</UL>
+<!--
+<P>
+Avviando il programma con la seguente opzione: 
+</P>
+<CODE>./pla.py -a 16</CODE>
+<P>
+è possibile caricare correttamente tutti i circuiti disponbili in libreria. 
+</P>
+-->
+
+<BR><BR><BR>
+<A HREF="../index.html">home page</A>
+<HR>
+
+</BODY>
+</HTML>

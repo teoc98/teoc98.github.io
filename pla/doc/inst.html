@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+          "http://www.w3.org/TR/html4/loose.dtd">
+<HTML LANG="it">
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<TITLE>Simulatore PLA - guida all'installazione</TITLE>
+<LINK REL="stylesheet" HREF="style.css" TYPE="text/css">
+</HEAD>
+<BODY>
+
+<H2>Guida all'installazione</H2>
+<P>Il simulatore PLA &egrave; scritto in Python, ed &egrave; pertanto eseguibile in
+qualunque ambiente di questo linguaggio di programmazione, disponibile, oltre
+che per Unix/Linux, MacOs e Windos, per una ulteriore serie di
+<A HREF="http://www.python.org/download/other/" TARGET="_blank">altre piattaforme</A>.
+</P>
+<P>
+Il simulatore &egrave; distribuito in forma open source, sotto la
+<A HREF="license.txt" TARGET="_blank">GNU GENERAL PUBLIC LICENSE</A>.
+</P>
+
+<H3>Requisiti</H3>
+<P>
+Il principale requisito &egrave; pertanto un ambiente Python, che &egrave; gi&agrave; disponibile
+nella maggior parte delle distribuzioni Linux, e in MacOSX da 10.7 in poi. Per
+la maggior parte degli altri sistemi &egrave; disponibile
+<A HREF="http://www.python.org/" TARGET="_blank">l'interprete base open source</A>, con
+possibilit&agrave; di interfacce pi&ugrave; sofisticate, come
+<A HREF="http://ipython.org/" TARGET="_blank">ipython</A>, raccomandabili per chi fosse
+intenzionato a personalizzazioni ed espansioni del codice.
+</P>
+<P>
+Il simulatore utilizza due tool di Python, entrambi di uso comune e ben
+supportati:
+</P>
+<UL>
+<LI>la libreria scientifica <A HREF="http://numpy.scipy.org/" TARGET="_blank">NumPy</A></LI>
+<LI>l'interfaccia grafica <A HREF="http://wiki.python.org/moin/TkInter" TARGET="_blank">TkInter</A></LI>
+</UL>
+
+<P>
+E' possibile verificare preventivamente la disponibilit&agrave; dei due pacchetti
+nel proprio sistema eseguendo uno dei tre seguenti comandi (a seconda della versione di Python installata): <BR>
+<CODE>python</CODE><BR>
+<CODE>python2</CODE><BR>
+<CODE>python3</CODE><BR>
+e, dall'interno dell'interprete:<BR>
+<CODE>import Tkinter</CODE><BR>
+<CODE>import numpy </CODE><BR>
+se non compare nessuna risposta i due pacchetti sono disponibili (premere
+<TT>Ctrl^D</TT> per uscire dall'interprete). In caso contrario comparir&agrave; il
+messaggio <BR>
+<CODE>ImportError: No module named </CODE><I>X</I><BR>
+e quindi occorrer&agrave; installare il modulo <I>X</I>, seguendo le istruzioni nel
+relativo sito.
+</P>
+
+<P>
+Il simulatore &egrave; stato testato per versioni di Python dalla 2.6 alla
+2.7.3, e con interprete alternativo <A HREF="http://ipython.org/"
+TARGET="_blank">ipython</A> dalla versione 0.9.1 alla 0.13.<BR>
+Il simulatore &egrave; stato inoltre testato per versioni di Python dalla 3.2 alla 3.7; dovrebbe comunque funzionare su tutte le versioni. 
+</P>
+
+
+
+<H3>Installazione ed esecuzione</H3>
+<P>
+Dopo aver scaricato l'archivio compresso <TT>PLA_simulator.zip</TT>,
+decomprimerlo in una qualunque directory.
+Per eseguire il simulatore basta posizionarsi nella subdirectory <TT>code</TT>
+della distribuzione, e scrivere la seguente riga di comando:
+</P>
+<CODE>./pla.py</CODE>
+<P>
+oppure: 
+</P>
+<CODE>python pla.py</CODE>
+
+<H3>Problemi comuni</H3>
+<P>
+Si indicano a seguito alcuni possibili problemi che potrebbero verificarsi in
+qualche sistema, e le relative azioni correttive.
+</P>
+<CENTER>
+<TABLE CLASS="fields">
+
+<TR>
+<TH>messaggio di errore</TH>
+<TH>possibile motivazione</TH>
+<TH>azione correttiva</TH>
+</TR>
+
+<TR>
+<TD CLASS="s1"><CODE>./pla.py: Permission denied.</CODE></TD>
+<TD CLASS="s2">nella decompressione dell'archivio non sono stati preservati i permessi dei file</TD>
+<TD CLASS="s3">
+eseguire:<BR>
+<CODE>chmod +x ./pla.py</CODE>
+</TD>
+</TR>
+
+<TR>
+<TD CLASS="s1"><CODE>./pla.py: Command not found.</CODE></TD>
+<TD CLASS="s2">il path del vostro interprete python non &egrave; quello standard</TD>
+<TD CLASS="s3">
+verificare il path del vostro interprete:<BR>
+<CODE>which python</CODE><BR>
+e sostituirlo nel file ./pla.py, alla prima riga di codice, al posto di
+<TT>/usr/bin/python</TT><BR>
+oppure eseguire: <BR>
+<CODE>python pla.py</CODE><BR>
+</TD>
+</TR>
+
+<TR>
+<TD CLASS="s1"><CODE>./pla.py: _tkinter.TclError: couldn't connect to display ":0"</CODE></TD>
+<TD CLASS="s2"> .</TD>
+<TD CLASS="s3">
+eseguire:<BR>
+<CODE>sudo ./pla.py</CODE>
+</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<BR><BR>
+<A HREF="../index.html">home page</A>
+<HR>
+
+</BODY>
+</HTML>

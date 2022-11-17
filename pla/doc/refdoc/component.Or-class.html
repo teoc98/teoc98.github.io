@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>component.Or</title>
+  <link rel="stylesheet" href="epydoc.css" type="text/css" />
+  <script type="text/javascript" src="epydoc.js"></script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="#204080"
+      alink="#204080">
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            ><a class="navbar" target="_top" href="../..">Programmable Logic Array Simulator - Alice Plebe, Matteo Cavallaro</a></th>
+          </tr></table></th>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="100%">
+      <span class="breadcrumbs">
+        <a href="component-module.html">Module&nbsp;component</a> ::
+        Class&nbsp;Or
+      </span>
+    </td>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <!-- hide/show private -->
+        <tr><td align="right"><span class="options">[<a href="javascript:void(0);" class="privatelink"
+    onclick="toggle_private();">hide&nbsp;private</a>]</span></td></tr>
+        <tr><td align="right"><span class="options"
+            >[<a href="frames.html" target="_top">frames</a
+            >]&nbsp;|&nbsp;<a href="component.Or-class.html"
+            target="_top">no&nbsp;frames</a>]</span></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- ==================== CLASS DESCRIPTION ==================== -->
+<h1 class="epydoc">Class Or</h1><p class="nomargin-top"><span class="codelink"><a href="component-pysrc.html#Or">source&nbsp;code</a></span></p>
+<pre class="base-tree">
+object --+        
+         |        
+ <a href="component.Component-class.html">Component</a> --+    
+             |    
+          <a href="component.Port-class.html">Port</a> --+
+                 |
+                <strong class="uidshort">Or</strong>
+</pre>
+
+<hr />
+<p>Classe della porta logica OR.</p>
+  <p>La porta viene disegnata in orientamento verticale con ingresso in 
+  alto, ed &#232; composta mediante:</p>
+  <ul>
+    <li>
+      arco di cerchio con centro sull'asse, per la sua base
+    </li>
+    <li>
+      due linee verticali parallele
+    </li>
+    <li>
+      due archi di cerchio con centri sfasati rispetto all'asse, per la 
+      punta
+    </li>
+  </ul>
+
+<!-- ==================== INSTANCE METHODS ==================== -->
+<a name="section-InstanceMethods"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Instance Methods</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-InstanceMethods"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="component.Or-class.html#_rad_to_deg" class="summary-sig-name" onclick="show_private();">_rad_to_deg</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">ang</span>)</span><br />
+      Funzione di ausilio per la conversione da radianti in gradi</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="component-pysrc.html#Or._rad_to_deg">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="component.Or-class.html#draw_lines" class="summary-sig-name">draw_lines</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">xa_0</span>,
+        <span class="summary-sig-arg">xa_2</span>,
+        <span class="summary-sig-arg">ya_0</span>,
+        <span class="summary-sig-arg">ya_2</span>)</span><br />
+      Traccia le linee verticali della porta</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="component-pysrc.html#Or.draw_lines">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="component.Or-class.html#draw_bottom" class="summary-sig-name">draw_bottom</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">ra</span>,
+        <span class="summary-sig-arg">theta</span>)</span><br />
+      Disegna l'arco per la base della porta</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="component-pysrc.html#Or.draw_bottom">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="component.Or-class.html#draw_top" class="summary-sig-name">draw_top</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">xa_delta</span>,
+        <span class="summary-sig-arg">ya_c</span>,
+        <span class="summary-sig-arg">ra</span>,
+        <span class="summary-sig-arg">theta</span>,
+        <span class="summary-sig-arg">delta</span>)</span><br />
+      Disegna i due archi per la punta della porta</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="component-pysrc.html#Or.draw_top">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="component.Or-class.html#__init__" class="summary-sig-name">__init__</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">pla</span>,
+        <span class="summary-sig-arg">x</span>)</span><br />
+      Istanzia una porta OR.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="component-pysrc.html#Or.__init__">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="component.Or-class.html#pin_in" class="summary-sig-name">pin_in</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      Calcola le coordinate del punto di ingresso della porta.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="component-pysrc.html#Or.pin_in">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="component.Or-class.html#pin_out" class="summary-sig-name">pin_out</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      Calcola le coordinate del punto di uscita della porta.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="component-pysrc.html#Or.pin_out">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="summary">
+    <p class="indent-wrapped-lines"><b>Inherited from <code>object</code></b>:
+      <code>__delattr__</code>,
+      <code>__format__</code>,
+      <code>__getattribute__</code>,
+      <code>__hash__</code>,
+      <code>__new__</code>,
+      <code>__reduce__</code>,
+      <code>__reduce_ex__</code>,
+      <code>__repr__</code>,
+      <code>__setattr__</code>,
+      <code>__sizeof__</code>,
+      <code>__str__</code>,
+      <code>__subclasshook__</code>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ==================== CLASS VARIABLES ==================== -->
+<a name="section-ClassVariables"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Class Variables</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-ClassVariables"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="name"></a><span class="summary-name">name</span> = <code title="'or_'"><code class="variable-quote">'</code><code class="variable-string">or_</code><code class="variable-quote">'</code></code><br />
+      prefisso della porta OR
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">frazione della dimensione totale della porta</span>
+    </td><td class="summary">
+        <a name="line_s"></a><span class="summary-name">line_s</span> = <code title="0.4">0.4</code><br />
+      dimensione delle linee costituenti la porta
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="elong"></a><span class="summary-name">elong</span> = <code title="1.7">1.7</code><br />
+      rapporto tra lunghezza (verticale) e larghezza (orizzontale) della 
+      porta OR
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="r_top"></a><span class="summary-name">r_top</span> = <code title="0.5">0.5</code><br />
+      rapporto tra raggio dei cerchi usati per la punta e dimensione della 
+      porta
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="r_bottom"></a><span class="summary-name">r_bottom</span> = <code title="0.7">0.7</code><br />
+      rapporto tra raggio del cerchio usato per la base e dimensione della 
+      porta
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="top_sharp"></a><span class="summary-name">top_sharp</span> = <code title="0.2">0.2</code><br />
+      inverso dell'acutezza della punta
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="adjust"></a><span class="summary-name">adjust</span> = <code title="1.4">1.4</code><br />
+      fattore correttivo della dimensione della porta OR per equipararla 
+      alla porta AND
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="summary">
+    <p class="indent-wrapped-lines"><b>Inherited from <code><a href="component.Port-class.html">Port</a></code></b>:
+      <code><a href="component.Port-class.html#color">color</a></code>,
+      <code><a href="component.Port-class.html#size">size</a></code>,
+      <code><a href="component.Port-class.html#thick">thick</a></code>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ==================== INSTANCE VARIABLES ==================== -->
+<a name="section-InstanceVariables"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Instance Variables</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-InstanceVariables"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="count"></a><span class="summary-name">count</span> = <code title="0">0</code><br />
+      numero di porte OR correntemente istanziate
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">dimensione normalizzata 0..1</span>
+    </td><td class="summary">
+        <a name="y_or"></a><span class="summary-name">y_or</span> = <code title="0.0">0.0</code><br />
+      coordinata verticale del centro della porta OR
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">Pla</span>
+    </td><td class="summary">
+        <a name="pla"></a><span class="summary-name">pla</span> = <code title="None">None</code><br />
+      il simulatore
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">Tkinter widget tag</span>
+    </td><td class="summary">
+        <a name="tag"></a><span class="summary-name">tag</span><br />
+      tag dell'oggetto grafico delineante la porta
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">dimensione normalizzata 0..1</span>
+    </td><td class="summary">
+        <a name="x"></a><span class="summary-name">x</span><br />
+      coordinata orizzontale del centro della porta
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">dimensione normalizzata 0..1</span>
+    </td><td class="summary">
+        <a name="y_in"></a><span class="summary-name">y_in</span><br />
+      coordinata verticale del pin di ingresso della porta
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">dimensione normalizzata 0..1</span>
+    </td><td class="summary">
+        <a name="y_out"></a><span class="summary-name">y_out</span><br />
+      coordinata verticale del pin di uscita della porta
+    </td>
+  </tr>
+</table>
+<!-- ==================== PROPERTIES ==================== -->
+<a name="section-Properties"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Properties</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-Properties"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+  <tr>
+    <td colspan="2" class="summary">
+    <p class="indent-wrapped-lines"><b>Inherited from <code>object</code></b>:
+      <code>__class__</code>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ==================== METHOD DETAILS ==================== -->
+<a name="section-MethodDetails"></a>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Method Details</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-MethodDetails"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<a name="_rad_to_deg"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_rad_to_deg</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">ang</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="component-pysrc.html#Or._rad_to_deg">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Funzione di ausilio per la conversione da radianti in gradi</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>ang</code></strong> - angolo espresso in radianti</li>
+    </ul></dd>
+    <dt>Returns:</dt>
+        <dd>angolo espresso in gradi (interi)</dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="draw_lines"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">draw_lines</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">xa_0</span>,
+        <span class="sig-arg">xa_2</span>,
+        <span class="sig-arg">ya_0</span>,
+        <span class="sig-arg">ya_2</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="component-pysrc.html#Or.draw_lines">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Traccia le linee verticali della porta</p>
+  <p>Il metodo non restituisce nulla, inserisce gli oggetti widget nella 
+  lista self.lines</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>xa_0</code></strong> - coordinata orizzontale della linea sinistra</li>
+        <li><strong class="pname"><code>xa_0</code></strong> - coordinata orizzontale della linea destra</li>
+        <li><strong class="pname"><code>ya_0</code></strong> - coordinata verticale del vertice superiore delle linee</li>
+        <li><strong class="pname"><code>ya_2</code></strong> - coordinata verticale del vertice inferiore delle linee</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="draw_bottom"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">draw_bottom</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">ra</span>,
+        <span class="sig-arg">theta</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="component-pysrc.html#Or.draw_bottom">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Disegna l'arco per la base della porta</p>
+  <p>Il metodo non restituisce nulla, inserisce gli oggetti widget nella 
+  lista self.arcs</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>ra</code></strong> - raggio dell'arco</li>
+        <li><strong class="pname"><code>theta</code></strong> - semiangolo del vertice superiore del triangolo isoscele su cui 
+          insiste l'arco</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="draw_top"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">draw_top</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">xa_delta</span>,
+        <span class="sig-arg">ya_c</span>,
+        <span class="sig-arg">ra</span>,
+        <span class="sig-arg">theta</span>,
+        <span class="sig-arg">delta</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="component-pysrc.html#Or.draw_top">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Disegna i due archi per la punta della porta</p>
+  <p>Il metodo non restituisce nulla, inserisce gli oggetti widget nella 
+  lista self.arcs</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>xa_delta</code></strong> - offset tra il centro orizzontale della porta, e i centri delle 
+          circonferenze</li>
+        <li><strong class="pname"><code>ya_c</code></strong> - coordinata verticale dei centri delle circonferenze</li>
+        <li><strong class="pname"><code>ra</code></strong> - raggio degli archi</li>
+        <li><strong class="pname"><code>theta</code></strong> - angolo formato tra il segmento che congiunge il vertice inferiore
+          della linea sinistra (che &#232; anche vertice superiore dell'arco 
+          sinistro) con il centro della circonferenza per l'arco sinsitro, 
+          e l'asse orizzontale</li>
+        <li><strong class="pname"><code>delta</code></strong> - angolo formato tra il segmento che congiunge il vertice inferiore
+          degli archi con il centro della circonferenza per l'arco 
+          sinsitro, e l'asse verticale</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="__init__"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">__init__</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">pla</span>,
+        <span class="sig-arg">x</span>)</span>
+    <br /><em class="fname">(Constructor)</em>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="component-pysrc.html#Or.__init__">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Istanzia una porta OR.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>pla</code></strong> (Pla) - il simulatore</li>
+        <li><strong class="pname"><code>x</code></strong> (dimensione normalizzata 0..1) - coordinata orizzontale del centro della porta</li>
+    </ul></dd>
+    <dt>Overrides:
+        object.__init__
+    </dt>
+  </dl>
+</td></tr></table>
+</div>
+<a name="pin_in"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">pin_in</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="component-pysrc.html#Or.pin_in">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Calcola le coordinate del punto di ingresso della porta.</p>
+  <dl class="fields">
+    <dt>Returns:</dt>
+        <dd>coordinate normalizzate del punto di ingresso della porta</dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="pin_out"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">pin_out</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="component-pysrc.html#Or.pin_out">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Calcola le coordinate del punto di uscita della porta.</p>
+  <dl class="fields">
+    <dt>Returns:</dt>
+        <dd>coordinate normalizzate del punto di uscita della porta</dd>
+  </dl>
+</td></tr></table>
+</div>
+<br />
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            ><a class="navbar" target="_top" href="../..">Programmable Logic Array Simulator - Alice Plebe, Matteo Cavallaro</a></th>
+          </tr></table></th>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%%">
+  <tr>
+    <td align="left" class="footer">
+    Generated by Epydoc 3.0.1 on Wed Jul 18 18:06:20 2018
+    </td>
+    <td align="right" class="footer">
+      <a target="mainFrame" href="http://epydoc.sourceforge.net"
+        >http://epydoc.sourceforge.net</a>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  <!--
+  // Private objects are initially displayed (because if
+  // javascript is turned off then we want them to be
+  // visible); but by default, we want to hide them.  So hide
+  // them unless we have a cookie that says to show them.
+  checkCookie();
+  // -->
+</script>
+</body>
+</html>

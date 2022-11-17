@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+          "http://www.w3.org/TR/html4/loose.dtd">
+<HTML LANG="it">
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<TITLE>Simulatore PLA - note di rilascio</TITLE>
+<LINK REL="stylesheet" HREF="style.css" TYPE="text/css">
+</HEAD>
+<BODY>
+
+<H2>Note di rilascio</H2>
+<H3>PLA simulator - versione 2.0</H3>
+<H4>Jul 31 2018</H4>
+
+<P>Il simulatore PLA &egrave; scritto in Python 2.7-3.7 ed &egrave; mantenuto sotto CVS
+(<A HREF="http://www.nongnu.org/cvs/" TARGET="_blank">Concurrent Versions System</A>).
+</P>
+<P>
+Il simulatore &egrave; distribuito in forma open source, sotto la
+<A HREF="license.txt">GNU GENERAL PUBLIC LICENSE</A>.
+</P>
+
+<P>
+La 
+<A HREF="refdoc/index.html" TARGET="_blank">documentazione di riferimento</A> 
+(disponibile anche in <A HREF="refdoc/api.pdf" TARGET="_blank">versione pdf</A>). 
+&egrave; la base di
+partenza per sviluppatori interessati ad ampliare e/o modificare il progetto.
+Essa &egrave; generata mediante
+<A HREF="http://epydoc.sourceforge.net/" TARGET="_blank">Epydoc</A>, che
+raccoglie e formatta le docstrings di Python.
+Per tale motivo i commenti in docstrings aderiscono alla sintassi
+<A HREF="http://epydoc.sourceforge.net/epytext.html" TARGET="_blank">Epytext Markup Language</A>;
+poiché Epydoc specifica nei file HTML la relativa codifica, non è necessatio usare 
+notazioni particolari per rappresentare correttamente le vocali italiano accentate. 
+I commenti iniziati invece con il
+simbolo <TT>#</TT> non sono prelevati per la documentazione e possono quindi
+essere liberi. <BR>
+Per rigenerare la documentazione di riferimento in un sistema UNIX basta posizionarsi 
+nella directory della distribuzione, e scrivere la seguente riga di comando: <BR>
+<CODE>doc/make_epy.sh</CODE><BR>
+Qualora si ottenesse il messaggio di errore: <BR>
+<CODE>doc/make_epy.sh: Permission denied.</CODE><BR>
+Esguire il comando: <BR>
+<CODE>chmod +x doc/make_epy.sh &amp;&amp; doc/make_epy.sh</CODE>
+</P>
+
+<BR>
+<H3>Sviluppo della libreria di circuiti</H3>
+<P>
+La sezione del codice preliminarmente predisposta per ampliamenti, anche da
+parte di chi non sia programmatore in Python, &egrave; la libreria di circuiti logici,
+che pu&ograve; essere personalizzata a piacimento, per scopi didattici o altro.
+Il modulo da modificare &egrave; <TT>circuits.py</TT>. La sua sezione fuori dalla
+classe <TT>Circuit</TT> &egrave; una collezione di istanze, ciascuna pu&ograve; essere usata
+come template per nuovi circuiti. La programmazione &egrave; facilitata dalla
+flessibile sintassi delle <I>slice</I> del Python nelle matrici NumPy, per
+esempio l'espressione:<BR>
+<CODE>circ_a.and_matrix[ 4, 1 : 4 : 2 ] = 1</CODE><BR>
+ha l'effetto di rendere connessi i fusibili della matrice tra ingresso e porte
+AND, per tutta la quinta riga, nelle seconda e quarta colonna, mentre:<BR>
+<CODE>circ_a.and_matrix[ 6, 1 : : 4 ] = 1</CODE><BR>
+connette tutti i fusibili della settima riga, per ogni colonna a partire dalla
+seconda fino all'ultima, in passi di quattro. Notare che, siccome nella pratica
+per la maggior parte dei circuiti le matrici sono piuttosto sparse, il
+procedimento utilizzato per la libreria &egrave; quello opposto rispetto alla
+programmazione logica manuale del simulatore: si inizia da matrici con tutti i
+fusibili scollegati, e si specificano, con sintassi come quelle mostrate sopra,
+i nodi che vanno connessi.
+</P>
+<P>
+Per creare nuovi circuiti a partire da una funzione logica è possibile utilizzare 
+una delle seguenti funzioni: <BR>
+<CODE>generate_code(name, description, function, input_names, output_names)</CODE><BR>
+<CODE>generate_obj(description, function, input_names, output_names)</CODE><BR>
+la prima stampa a schermo il codice da inserire nell'apposito modulo, la seconda 
+(da richiamare nel modulo stesso) restituisce un oggetto di tipo <TT>Circuit</TT>. 
+</P>
+<P>
+La funzione logica da passare ai due metodi sopra citati deve prendere in input <TT>
+n_i</TT> parametri booleani e restituire una tupla di <TT>n_o</TT> booleani. <BR>
+I parametri <TT>input_names</TT> e <TT>output_names</TT> devono essere tuple o liste
+contenti rispettivamente <TT>n_i</TT> stringhe e <TT>n_o</TT> stringhe. 
+<P>
+<P>
+Notare che ogni circuito nuovo, perch&eacute; sia visibile e utilizzabile nel
+simulatore, deve essere aggiunto alla lista <TT>circs</TT>, nell'ultima
+istruzione del modulo <TT>circuits.py</TT>.
+</P>
+
+<BR>
+<P>
+Per segnalazioni e contatti scrivere a <A HREF="mailto:alice.plebe@gmail.com">Alice Plebe</A>, autore della prima versione, o a <A HREF="mailto:teoc98@alwaysdata.net">Matteo Cavallaro</A>, autore della presente versione.
+</P>
+
+<BR><BR>
+<A HREF="../index.html">home page</A>
+<HR>
+
+</BODY>
+</HTML>

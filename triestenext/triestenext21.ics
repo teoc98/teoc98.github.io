@@ -1,0 +1,717 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//matteo.ga//Triest Next 2021/IT
+NAME:Trieste Next 2021
+X-WR-CALNAME:Trieste Next 2021
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono i rappresentanti del Consiglio Comunale delle Ragazze e dei Ragazzi - CCRR\n\n\nPartecipano\nPaola Del Negro\, direttore generale OGS\nAntonella Nappi\, docente referente CCRR Istituto Comprensivo Tiziana Weiss\n\nModera\nFrancesca Rizzato\, comunicatrice della scienza Sissa Medialab\nSta per scadere il quarto mandato del Consiglio Comunale delle Ragazze e dei Ragazzi (CCRR) di Trieste: i protagonisti e le protagoniste propongono un bilancio del biennio in cui sono stati in carica\, raccontano i progetti divenuti realtà e presentano le tante proposte di miglioramento della città che lasciano in eredità ai nuovi consiglieri che da novembre li sostituiranno. Li affiancano alcuni degli adulti coinvolti nel progetto\, che raccontano l'esperienza dal proprio punto di vista.\n\nA cura di Sissa Medialab e di CCRR del Comune di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/la-citta-giovane-idee-e-proposte-del-consiglio-comunale-delle-ragazze-e-dei-ragazzi
+DTEND:20210925T141500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T130000Z
+SUMMARY:LA CITTÀ GIOVANE: IDEE E PROPOSTE DEL CONSIGLIO COMUNALE DELLE RAGAZZE E DEI RAGAZZI
+UID:06b9e996-d9a2-4244-8863-7f0970f6b0fc@06b9.org
+URL:https://www.triestenext.it/tc-events/la-citta-giovane-idee-e-proposte-del-consiglio-comunale-delle-ragazze-e-dei-ragazzi
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nEvento di anteprima di Euro BioHighTech 2021\n\n\nIntroduce\nDiego Bravar\, presidente Comitato Organizzatore EuroBiohighTech 2021\n\nIntervengono\nNadio Delai\, presidente Ermeneia Studi & Strategie di Sistema\nAlberto Steindler\, presidente Fondazione "Alessandro Volta"\nRoberta Terpin\, investment manager Friulia\nSerena Zacchigna\, docente di Biologia molecolare Università di Trieste\, responsabile Laboratorio di Biologia cardiovascolare ICGEB\n\n\nA cura di Euro BioHighTech\n\n\n\nLink: https://www.triestenext.it/tc-events/innovazione-nella-health-technology-ricerca-educazione-finance
+DTEND:20210924T171500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T160000Z
+SUMMARY:INNOVAZIONE NELLA HEALTH TECHNOLOGY: RICERCA\, EDUCAZIONE\, FINANCE
+UID:27db9049-4099-42b2-b32d-f1fc76251ca6@27db.org
+URL:https://www.triestenext.it/tc-events/innovazione-nella-health-technology-ricerca-educazione-finance
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nAdele Teresa Cozzoli\, docente di Lingua e letteratura greca Università Roma Tre\nMarco Fernandelli\, docente di Lingua e letteratura latina Università di Trieste\n\nModera\nLorenzo De Vecchi\, giornalista e classicista\nNel mondo antico le passioni e i loro rimedi interessano profondamente la filosofia morale\, il pensiero medico e la letteratura. I poeti conoscono bene il potere terapeutico del racconto\, che agisce sia su chi ha la parola sia su chi la ascolta. Nell’Odissea\, Ulisse narra la propria storia ritrovando l’identità e la forza\, e suscitando l’empatia dei suoi ascoltatori. Secoli dopo\, il poeta ellenistico Teocrito\, tenendo conto di questo racconto in modo arguto e raffinato\, offre a un amico malato d’amore\, un medico\, l’esempio di una cura efficace. È la serenata di Polifemo per la ninfa Galatea.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/la-serenata-del-ciclope-alle-origini-del-racconto-come-terapia
+DTEND:20210926T104500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T093000Z
+SUMMARY:LA SERENATA DEL CICLOPE. ALLE ORIGINI DEL RACCONTO COME TERAPIA
+UID:fffb291f-25a6-45bd-9c86-caefb97cf37c@fffb.org
+URL:https://www.triestenext.it/tc-events/la-serenata-del-ciclope-alle-origini-del-racconto-come-terapia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nChiara Agostinis\, ricercatrice IRCCS Burlo Garofolo Trieste\nGiuseppe Ricci\, docente di Ostetricia e Ginecologia Università di Trieste - IRCCS Burlo Garofolo\nSerena Zacchigna\, docente di Biologia molecolare Università di Trieste\, responsabile Laboratorio di Biologia cardiovascolare ICGEB\nDaniela Zuccarello\, medico genetista Genetica Clinica Azienda-Ospedale Università di Padova\n\nModera\nLuisa Alessio\, divulgatrice scientifica\nDa una decina di anni in Italia si registra una netta diminuzione della natalità dovuta sia a fattori socio-economici sia a un aumento dell’infertilità maschile e femminile. Allo stesso tempo\, è aumentato il numero di coppie che si affidano alla procreazione medicalmente assistita\, non solo per problemi di infertilità. Attraverso la diagnosi genetica pre-impianto oggi è possibile prevenire alcune gravi malattie ereditarie (emofilia\, distrofia muscolare\, fibrosi cistica\, ...).\n\nUn problema attuale e frequente nel campo della riproduzione umana è la compromissione della fertilità in pazienti affette da tumori che richiedono terapie particolarmente aggressive. La nuova frontiera è rappresentata dall’ovaio artificiale\, ancora in via sperimentale\, ma sicuramente una prospettiva futura per tutte le giovani donne che\, colpite da un tumore\, vogliono mantenere la possibilità di diventare madri.\n\nA cura di ICGEB\n\n\n\nLink: https://www.triestenext.it/tc-events/science-the-city-young-il-futuro-della-riproduzione-umana
+DTEND:20210926T171500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T160000Z
+SUMMARY:SCIENCE & THE CITY YOUNG: IL FUTURO DELLA RIPRODUZIONE UMANA
+UID:b79ff488-a502-4783-b2cc-3fcc525f44c3@b79f.org
+URL:https://www.triestenext.it/tc-events/science-the-city-young-il-futuro-della-riproduzione-umana
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nEvento riservato ai partecipanti alla Trieste Next Academy\n\n\nIntervengono\nGiovanni Albano\, medico\, direttore Dipartimento Anestesia e Terapia intensiva Humanitas Gavazzeni e Castelli di Bergamo\nOliviero Bergamini\, vicedirettore Rai News 24\nMassimo Castoldi\, direttore sanitario Ospedali Humanitas Gavazzeni Castelli\nMichela Murgia\, scrittrice [foto di Chiara Pasqualini]\n\nConduce\nTatiana Debelli\, giornalista\nIl racconto e la bellezza come terapia: raccontare storie di sollievo\, di dolore\, di gioia o di paura di fronte alla malattia\, aprendo le porte dell’ospedale e dimostrando che il racconto e la bellezza possono essere una terapia e una chiave per accompagnare la ripartenza personale e del territorio.  È questo l’obiettivo di “Opere in Parole”\, progetto nato dalla collaborazione tra Humanitas Gavazzeni e Castelli di Bergamo e il museo Accademia di Carrara\, che ha portato oltre 1200 metri quadrati di arte in ospedale\, in un formato inedito e immersivo\, accompagnati dalle voci di grandi interpreti della cultura italiana. “Opere in Parole” si presenta a Trieste Next con alcuni dei suoi protagonisti per raccontare al pubblico come la medicina narrativa permette di sviluppare nuovi canali di comunicazione tra medici\, infermieri e pazienti. Tra gli autori di “Opere in Parole” al Festival ci saranno Oliviero Bergamini e Michela Murgia che\, ispirandosi ad alcuni dipinti del Museo\, hanno dato vita ai racconti e podcast originali “Di viaggi e di fortezze” e “Il leone” che verranno narrati dalla loro viva voce. I partecipanti di Trieste Next Academy saranno invitati a confrontarsi sul percorso fatto dagli autori in un gioco di emozioni e parole\, strumento di dialogo con e per l’ospedale e i suoi pazienti.\n\nA cura di Humanitas Gavazzeni\n\n\n\nLink: https://www.triestenext.it/tc-events/cura-bellezza-e-parole-come-cambia-il-modo-di-vivere-in-ospedale
+DTEND:20210924T141500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T130000Z
+SUMMARY:NUOVE STRADE DELLA COMUNICAZIONE: COME BELLEZZA\, ARTE E PAROLE CAMBIANO UN OSPEDALE
+UID:3e1f3e9d-fea9-405d-a433-bd3dca058aa8@3e1f.org
+URL:https://www.triestenext.it/tc-events/cura-bellezza-e-parole-come-cambia-il-modo-di-vivere-in-ospedale
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nPaolo Boscolo Rizzo\, docente di Otorinolaringoiatria Università di Trieste\nCaterina Dinnella\, docente di Scienze dell'alimentazione Università di Firenze\nPaola Tesolin\, dottoranda Università di Trieste\n\nModera\nCaterina Fazion\, collaboratrice Direzione Scientifica e Ufficio Stampa IRCCS Burlo Garofolo di Trieste\nI sensi sono un mezzo fondamentale con il quale interpretiamo il mondo che ci circonda. Le informazioni ottenute dall’ambiente esterno\, attraverso la percezione sensoriale\, influenzano le nostre abitudini\, quindi inevitabilmente anche lo stato di salute. L’infezione da COVID19 ha infatti evidenziato come l'alterazione dell’olfatto possa costituire un disagio notevole per la persona.\nNel corso dell’intervento analizzeremo come le informazioni contenute nel DNA possano modulare le capacità sensoriali\, quali udito\, olfatto e gusto\, e come questo possa avere un impatto sul benessere della persona.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/geni-e-sensi-un-mondo-ancora-da-esplorare
+DTEND:20210924T141500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T130000Z
+SUMMARY:GENI E SENSI: UN MONDO ANCORA DA ESPLORARE
+UID:2933d6c3-acdc-4a02-a211-fa993601ee70@2933.org
+URL:https://www.triestenext.it/tc-events/geni-e-sensi-un-mondo-ancora-da-esplorare
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\n\nAlberto Piazza\, professore emerito di Genetica umana Università di Torino\, autore di  Genetica e destino  (Codice edizioni)\n\nintervistato da\nElena Ravera\, giornalista VeneziePost\nLe sempre maggiori conoscenze che stiamo accumulando sulla genetica e sull’evoluzione umana hanno una forte influenza sulla percezione che avvertiamo di noi stessi. Un’influenza tale da richiamare un concetto potente come il destino\, spesso associato a un’idea di predeterminazione scritta nei nostri geni. La realtà è però ben più complessa. A Trieste Next\, il genetista Alberto Piazza\, finalista al Premio Galileo 2021\, prende spunto proprio dal significato di destino per tracciare un viaggio di esplorazione della natura biologica\, culturale e morale dell’essere umano\, dove scienza\, letteratura e filosofia si incontrano e dialogano.\n\nIn collaborazione con Premio letterario Galileo per la divulgazione scientifica\n\n\n\nLink: https://www.triestenext.it/tc-events/genetica-e-destino
+DTEND:20210926T091500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T080000Z
+SUMMARY:GENETICA E DESTINO
+UID:a48aa9ff-c6af-46fd-b4ee-4b850b334bb3@a48a.org
+URL:https://www.triestenext.it/tc-events/genetica-e-destino
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nAmedeo Aristei\, direttore Protezione civile Regione Friuli Venezia Giulia\nPaolo Comelli\, ricercatore Centro Ricerche Sismologiche OGS\nGiovanni Costa\, ricercatore in Sismologia Università di Trieste\nLuca Soppelsa\, capo Direzione Regionale Protezione Civile\, Sicurezza e Polizia Locale del Veneto\n\nModera\nStefano Parolai\, direttore Centro Ricerche Sismologiche OGS\nEventi naturali estremi come i terremoti hanno un forte impatto sulla società in generale e in particolare sul benessere delle persone che vivono in zone ad alto rischio sismico. Identificare le aree più a rischio\, sviluppare sistemi di allerta e di gestione dell'emergenza adeguati\, ma soprattutto creare una maggior consapevolezza nella popolazione è quindi di fondamentale importanza per mitigare l'impatto di questi eventi e aumentare la resilienza della società. Alla tavola rotonda partecipano sismologi e rappresentanti delle protezioni civili regionali che si occupano del monitoraggio e della gestione delle emergenze sismiche dell’Italia nord orientale per discutere i benefici e problemi dei sistemi di monitoraggio ma soprattutto l'importanza di una comunicazione adeguata delle informazioni ottenibili in tempo reale riguardanti i terremoti.\n\nA cura di OGS\n\n\n\nLink: https://www.triestenext.it/tc-events/terremoti-e-societa-i-sistemi-di-monitoraggio-e-allerta-a-beneficio-di-tutti
+DTEND:20210926T154500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T143000Z
+SUMMARY:TERREMOTI E SOCIETÀ: I SISTEMI DI MONITORAGGIO E ALLERTA A BENEFICIO DI TUTTI
+UID:7d7eab51-ec7f-48cb-8d98-f80e63b8949d@7d7e.org
+URL:https://www.triestenext.it/tc-events/terremoti-e-societa-i-sistemi-di-monitoraggio-e-allerta-a-beneficio-di-tutti
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nIntervengono\nSilvia De Francia\, farmacologa clinica e ricercatrice Università di Torino\, autrice de  La medicina delle differenze. Storie di donne uomini e discriminazioni (Neos Editori)\nAlessandra Maestro\, farmacologa\, dirigente farmacista presso la SSD Farmacia e coordinatore Ufficio per la qualità della ricerca e protezione dei soggetti umani “Institutional Review Board” IRCCS Burlo Garofolo\n\nConduce\nSilvia Pittarello\, comunicatrice della scienza Università di Padova\nNel 1543\, Andrea Vesalio\, medico personale di Carlo V di Spagna\, scriveva: “[…] è sufficiente studiare il corpo maschile\, forma neutra universale\, per capire anche il corpo femminile”. Sembra naturale che donne e uomini\, in parte diversi per anatomia e fisiologia\, siano oggetto di cure specifiche quando si ammalano. E invece fino alla fine del '900 non è stato così. La farmacologia e la medicina di genere sono una novità e c'è ancora molto da fare. A Trieste Next un dibattito per ripercorrere le pagine de La medicina delle differenze. Storie di donne uomini e discriminazioni con l'autrice Silvia De Francia e fare il punto su quanto manca per raggiungere l'equità delle cure.\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/la-medicina-delle-differenze-verso-lequita-di-cura
+DTEND:20210926T091500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T080000Z
+SUMMARY:LA MEDICINA DELLE DIFFERENZE: VERSO L’EQUITÀ DI CURA
+UID:45186388-53cf-4475-854f-2aa618dcc53e@4518.org
+URL:https://www.triestenext.it/tc-events/la-medicina-delle-differenze-verso-lequita-di-cura
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\n\nAldo Faisal\, docente di Intelligenza artificiale e Neuroscienze Imperial College di Londra\nAntonio Poggiana\, direttore generale ASUGI-Azienda Sanitaria Universitaria Giuliano Isontina\n\nin dialogo con\nGiulia Barbati\, docente di Statistica medica Università di Trieste\nUniversità di Trieste\, SISSA e Rachael propongono una riflessione sulla possibilità di potenziare i servizi di assistenza\, prevenzione e cura che istituzioni e aziende offrono ai cittadini tramite l’integrazione di diverse fonti di conoscenza: dati censuari\, banche dati pubbliche e private\, rilevazioni demoscopiche.\nL’integrazione resa possibile dagli strumenti della statistica e della data science è oggi in grado di sostenere la filiera della cura nell’individuazione di bisogni specifici\, nella predizione di scenari\, ma anche nella gestione delle nuove frontiere terapeutiche. Alla rapida penetrazione della salute e dei suoi strumenti nelle case e nella vita quotidiana - telemedicina\, prevenzione wearable\, sistemi di autodiagnosi\, home therapy - si accompagna la necessità di integrare analizzare e interpretare crescenti ed eterogenee masse di dati: parametri fisiologici\, dati anagrafici - ma anche stati emotivi\, valori\, opinioni e propensioni - al fine di generare percorsi di cura sempre più personalizzati ed efficaci\, dando al contempo crescente spazio al ruolo del paziente\, affinché egli possa agire in maggiore autonomia e assumere una posizione informata e attiva nei propri percorsi di prevenzione e terapia. Approcci come ad esempio la medicina d’iniziativa offrono infatti importanti prospettive in termini di miglioramento dei risultati e ottimizzazione delle risorse partendo da un ascolto integrale della persona.\nD’altra parte i dati oggi disponibili necessitano non solo di essere valorizzati\, ma anche di essere governati in termini di bilanciamento di diritti\, interessi e utilità sociale.\nInsieme con alcuni ospiti provenienti dal mondo scientifico e sanitario\, Università di Trieste\, SISSA e Rachael (spinoff dei due atenei e di SWG) propongono una riflessione su queste tematiche\, per esplorarne i vantaggi\, le possibili applicazioni\, le implicazioni etiche e le tutele necessarie.\n\nA cura di Università di Trieste\, SISSA\, Rachael\n\n\n\nLink: https://www.triestenext.it/tc-events/big-data-tre-volte-al-di-la-scienza-dei-dati-al-servizio-della-cura-e-della-salute-individuali
+DTEND:20210924T154500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T143000Z
+SUMMARY:BIG DATA TRE VOLTE AL DÌ: LA SCIENZA DEI DATI AL SERVIZIO DELLA CURA E DELLA SALUTE INDIVIDUALI
+UID:23f0e31a-5753-4f52-b7f3-cc4e7c2389b0@23f0.org
+URL:https://www.triestenext.it/tc-events/big-data-tre-volte-al-di-la-scienza-dei-dati-al-servizio-della-cura-e-della-salute-individuali
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nConfronto tra\nNico Pitrelli\, responsabile Unità relazioni con i media e comunicazione SISSA\, autore de Il giornalismo scientifico (Carocci)\nGiancarlo Sturloni\, giornalista e saggista\nElisabetta Tola\, giornalista  Radio 3 Scienza\n\n\nA cura di Laboratorio interdisciplinare SISSA\n\n\n\nLink: https://www.triestenext.it/tc-events/da-greta-al-coronavirus-come-cambia-il-giornalismo-scientifico
+DTEND:20210924T154500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T143000Z
+SUMMARY:DA GRETA AL CORONAVIRUS: COME CAMBIA IL GIORNALISMO SCIENTIFICO
+UID:15d2513f-8b7c-4f75-a9fd-388fec2496c9@15d2.org
+URL:https://www.triestenext.it/tc-events/da-greta-al-coronavirus-come-cambia-il-giornalismo-scientifico
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nTrieste Next per le Scuole\n\nIntroduce\nMatteo Biasotto\, docente di Malattie odontostomatologiche Università di Trieste\n\nIntervengono\nUmberto Albert\, docente di Psichiatria Università di Trieste\nGabriella Marcon\, docente di Neurologia e Neuroanatomia Università di Udine\, docente di Odontoiatria Università di Trieste\nMassimo Polidoro\, scrittore\, giornalista\, segretario CICAP-Comitato Italiano per il Controllo delle Affermazioni sulle Pseudoscienze\, docente di Comunicazione scientifica Università di Padova\n\nModera\nSerena Zacchigna\, docente di Biologia molecolare Università di Trieste\, responsabile Laboratorio di Biologia cardiovascolare ICGEB\nIl viaggio dell’uomo verso l’immortalità\, considerato il bene assoluto\, sin dalle civiltà più antiche\, sumeri e babilonesi prima\, egizi e greci poi\, acquisisce forme mitologiche e letterarie fino a confondere scienza e alchimia. Oggigiorno società in campo biomedico e hi-tech da tempo hanno lanciato la sfida alla morte e all’eterna giovinezza. Ma fino dove possiamo allontanarci dalla realtà? Come la scienza può aiutarci? Nella storia e nei miti ci sono verità nascoste che possano aiutarci a raggiungere l’eterna giovinezza?\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/immortalita-tra-medicina-e-alchimia
+DTEND:20210924T074500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T070000Z
+SUMMARY:IMMORTALITÀ TRA MEDICINA E ALCHIMIA
+UID:3b3b4587-8976-4165-ac6b-f433272c3a99@3b3b.org
+URL:https://www.triestenext.it/tc-events/immortalita-tra-medicina-e-alchimia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nGiuseppe Borruso\, docente di Geografia economico-politica Università di Trieste\nMaurizio Carta\, docente di Urbanistica Università di Palermo\nMattea Lissia\, imprenditrice\, managing director Festival Time in jazz Associazione Culturale Luna Scarlatta\nFrancesco Magris\, docente di Politica economica Università di Trieste\nVanessa Nicolin\, docente di Anatomia umana Università di Trieste\nMassimiliano Tarantino\, direttore Fondazione Giangiacomo Feltrinelli\n\nModera\nGinevra Balletto\,  docente di Pianificazione territoriale Università di Cagliari\nLa Smart City si trova di fronte alle sfide della pandemia\, nel riprendere il ruolo dell'interazione\, dello scambio\, dell'innovazione\, derivanti dal rapporto tra persone\, attività umane e territorio. In linea con il tema "Take Care"\, si ragionerà su come la città si possa 'prendere cura' dei suoi cittadini\, visti nella loro componente umana\, dal punto di vista dell’interazione tecnologica\, e soprattutto dal punto di vista della salute\, in termini sanitari\, nell'incentivare la prevenzione\, gli stili di vita sani\, la riduzione delle disparità sociali ed economiche\, il rispetto dell'ambiente. Ciò\, anche attraverso le soluzioni della ‘digital health’\, con applicazioni che vanno dalla didattica\, alla mobilità\, alla socialità e alla sanità digitale.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/da-smart-city-a-healthy-city-citta-e-cittadini-dopo-la-pandemia
+DTEND:20210925T091500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T080000Z
+SUMMARY:DA SMART CITY A HEALTHY CITY. CITTÀ E CITTADINI DOPO LA PANDEMIA
+UID:c78e41d9-c0a9-41cd-b6cc-b3fe974ef053@c78e.org
+URL:https://www.triestenext.it/tc-events/da-smart-city-a-healthy-city-citta-e-cittadini-dopo-la-pandemia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nIntervengono\nOzgë Akbulut\, docente Sabanci University Istanbul\, vincitrice EU Prize for Women Innovators\nGiada Palma\, autrice di Donne che innovano\nMaria-Pau Ginebra\, direttore ICREA CMEM Università di Barcelona\, vincitrice EU Prize for Women Innovators\n\nConduce\nGaia Fusilli\, collaboratrice VeneziePost\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/eu-prize-for-women-innovators
+DTEND:20210925T104500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T093000Z
+SUMMARY:EU PRIZE FOR WOMEN INNOVATORS
+UID:b4cfdcde-c240-4265-82f4-64a312ea931e@b4cf.org
+URL:https://www.triestenext.it/tc-events/eu-prize-for-women-innovators
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nElena Barbera\, assegnista di ricerca Università di Padova\nRomeo Danielis\, docente di Economia dei Trasporti Università di Trieste\nMaurizio Fermeglia\, docente di Ingegneria chimica Università di Trieste\nMariagrazia Midulla\, responsabile Clima ed Energia WWF Italia\n\nConclude\nAndrea Condotta\, innovation manager Gruber Logistics\n\nModera\nAlessandro Massi Pavan\, docente di Elettrotecnica e coordinatore Centro Interdipartimentale Giacomo Ciamician Università di Trieste\nIl settore trasporti è responsabile di un quarto delle emissioni globali di CO2. L’idrogeno rappresenta una valida soluzione a questo problema nei settori del trasporto marittimo\, su rotaia e per gli autobus urbani e gli autoarticolati. Si analizzeranno gli aspetti legati alla distribuzione e alla produzione dell’idrogeno nelle sue diverse sfumature di colore. Particolare attenzione verrà data alla situazione di Trieste che\, con le sue aspettative relative alla logistica commerciale\, potrebbe giocare un ruolo importante nello sviluppo della filiera dell’idrogeno.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/le-sfumature-dellidrogeno-di-che-colore-sara-lidrogeno-utilizzato-per-il-settore-dei-trasporti
+DTEND:20210925T141500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T130000Z
+SUMMARY:LE SFUMATURE DELL’IDROGENO: DI CHE COLORE SARÀ L’IDROGENO UTILIZZATO PER IL SETTORE DEI TRASPORTI?
+UID:71b18614-78e0-4f80-95c5-67c8bcc97af0@71b1.org
+URL:https://www.triestenext.it/tc-events/le-sfumature-dellidrogeno-di-che-colore-sara-lidrogeno-utilizzato-per-il-settore-dei-trasporti
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nDialogo tra\nPaolo Mieli\, giornalista e saggista\nOmar Monestier\, direttore  Il Piccolo\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/la-terapia-delloblio-contro-gli-eccessi-della-memoria
+DTEND:20210926T171500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T160000Z
+SUMMARY:LA TERAPIA DELL’OBLIO: CONTRO GLI ECCESSI DELLA MEMORIA
+UID:46c761ad-81a5-49d9-86d1-5470a9bc4b11@46c7.org
+URL:https://www.triestenext.it/tc-events/la-terapia-delloblio-contro-gli-eccessi-della-memoria
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nUn mare di archeologia\n\nIntervento di\nLouis Godart\, docente di Civiltà egee\, socio Accademia Nazionale dei Lincei\n\nIntroduce\nDavide Casali\, presidente Associazione Musica Libera e coorganizzatore "Mare di Archeologia"\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/liliade-alla-luce-delle-nuove-scoperte-nel-campo-dellarcheologia-e-della-filologia
+DTEND:20210925T201500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T190000Z
+SUMMARY:L’ILIADE ALLA LUCE DELLE NUOVE SCOPERTE NEL CAMPO DELL’ARCHEOLOGIA E DELLA FILOLOGIA
+UID:8ade6c01-d0ac-4691-a120-9ad7a47902c6@8ade.org
+URL:https://www.triestenext.it/tc-events/liliade-alla-luce-delle-nuove-scoperte-nel-campo-dellarcheologia-e-della-filologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nStefano Cozzini\, direttore Istituto Ricerca e Tecnologie Area Science Park\nMarcello Dalmonte\, ricercatore in Fisica teorica ICTP\nPaolo Giommi\, ricercatore ASI Agenzia Spaziale Italiana\nMaria Teresa Leo\, ufficio editoriale Sissa Medialab\nLaura Patrizii\, ricercatrice INFN Bologna\nGiorgio Rossi\, docente di Fisica Università di Milano\, CNR-IOM\n\nModera\nSimona Regina\, giornalista scientifica\nLa pandemia che ci ha travolti ha reso indiscutibile l’importanza di una condivisione trasparente e tempestiva dei risultati della ricerca scientifica per trovare risposte in tempi rapidi. È\, questa\, l’ulteriore dimostrazione della necessità di definire un processo scientifico aperto che permetta di affrontare in modo collaborativo le problematiche più urgenti per la società. Ma cosa significa scienza aperta? E quali sono le iniziative messe in campo a livello locale\, nazionale e internazionale per ottenerla? Alcuni enti scientifici raccontano come stanno contribuendo a questa transizione.\n\nA cura di SISSA\, INFN Trieste\, INAF Osservatorio Astronomico di Trieste\, ICTP\, CNR-IOM\, Area Science Park\n\n\n\nLink: https://www.triestenext.it/tc-events/open-science-le-grandi-sfide-dellumanita-si-affrontano-insieme
+DTEND:20210925T091500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T080000Z
+SUMMARY:OPEN SCIENCE: LE GRANDI SFIDE DELL’UMANITÀ SI AFFRONTANO INSIEME
+UID:c86c5b3e-cdd9-4875-b30c-156dd2adfeda@c86c.org
+URL:https://www.triestenext.it/tc-events/open-science-le-grandi-sfide-dellumanita-si-affrontano-insieme
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nDanilo Licastro\, responsabile laboratorio Genomica ed Epigenomica Area Science Park\nAlessandro Marcello\, virologo ICGEB\nDino Paladin\, fondatore AB Analitica\nPaola Storici\, ricercatrice responsabile Laboratorio di Proteine Elettra Sincrotrone Trieste\nFederico Urban\, co-fondatore e presidente di PLUS\n\nModera\nBarbara Delbello\, esperta in comunicazione Area Science Park\nDall’inizio della pandemia\, il sistema Area Science Park si è mobilitato contro il coronavirus su diversi fronti. Numerose sono infatti le realtà\, tra centri di ricerca\, imprese e start up\, che hanno sviluppato progetti e iniziative per contrastare l'emergenza sanitaria Covid-19. Diversi i campi interessati: il sequenziamento del genoma del virus\, nuovi sistemi diagnostici\, tecnologie per la gestione dei dati e nuovi farmaci e vaccini. Un contributo scientifico e tecnologico a favore della collettività\, che vede quotidianamente impegnati ricercatori e imprenditori del parco scientifico.\n\nA cura di Area Science Park in collaborazione con AB Analitica\, Elettra Sincrotrone Trieste\, ICGEB e PLUS\n\n\n\nLink: https://www.triestenext.it/tc-events/covid19-una-sfida-aperta-per-ricerca-e-innovazione
+DTEND:20210925T171500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T160000Z
+SUMMARY:COVID19\, UNA SFIDA APERTA PER RICERCA E INNOVAZIONE
+UID:d7b665a8-fa33-490a-90da-950dbd7add22@d7b6.org
+URL:https://www.triestenext.it/tc-events/covid19-una-sfida-aperta-per-ricerca-e-innovazione
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nAnteprima di Trieste Next 2021\n\nSerata in onore di Anna Zoppellari\n\n\nDialogo tra\nTahar Ben Jelloun\, scrittore\nRita El Khayat\, psichiatra\, scrittrice e antropologa\n\nModera\nSergia Adamo\, docente di Critica letteraria e Letterature comparate Università di Trieste\n\n\nA cura del gruppo di ricerca "Straniamenti" Dipartimento di studi umanistici\, Università di Trieste\, in collaborazione con Alliance Française Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/empatia-o-straniamento
+DTEND:20210923T201500Z
+LOCATION:Magazzino 26\, Sala "Lelio Luttazzi"\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210923T190000Z
+SUMMARY:EMPATIA O STRANIAMENTO?
+UID:9f1628de-f09c-489f-9837-a291ad32f0f7@9f16.org
+URL:https://www.triestenext.it/tc-events/empatia-o-straniamento
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\n\nMaurizio Ferraris\, filosofo\, editorialista La Repubblica e Neue Zurcher Zeitung\n\nintervistato da\nGaia Fusilli\, collaboratrice VeneziePost\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/documanita-filosofia-del-nuovo-mondo
+DTEND:20210926T104500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T093000Z
+SUMMARY:DOCUMANITÀ: FILOSOFIA DEL NUOVO MONDO
+UID:d29f2d27-72fa-4a62-ae2c-5462722cdab2@d29f.org
+URL:https://www.triestenext.it/tc-events/documanita-filosofia-del-nuovo-mondo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nMartina Dell'Angela\, ricercatrice CNR-IOM\nAntonella Iadecola\, ingegnere di ricerca CNRS - Centre national de la recherche scientifique\nPaola Luches\, ricercatrice Istituto Nanoscienze CNR di Modena\nLorenzo Stievano\, docente di chimica inorganica Università di Montpellier\n\nModera\nClaudio Masciovecchio\, dirigente per le tecniche sperimentali risolte temporalmente di FERMI\, Elettra Sincrotone Trieste\nRivoluzione verde e transizione ecologica sono i grandi obiettivi alla base delle future scelte economiche dell’Europa e del mondo intero. Tra i pilastri della sostenibilità energetica vi è la produzione di energia pulita\, ad esempio tramite la fotocatalisi\, e la necessità di stoccarla tramite batterie ricaricabili\, sia ad uso stazionario che mobile. Grazie alle caratteristiche complementari del laser a elettroni liberi FERMI e del sincrotrone Elettra\, e alle tecniche di caratterizzazione disponibili presso CERIC-ERIC\, è possibile studiare i fenomeni elettronici che sono alla base del funzionamento di queste due classi di materiali durante le condizioni di operatività.\n\nA cura di Elettra Sincrotrone Trieste\, CERIC-ERIC\n\n\n\nLink: https://www.triestenext.it/tc-events/verso-lenergia-del-futuro
+DTEND:20210925T154500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T143000Z
+SUMMARY:VERSO L’ENERGIA DEL FUTURO
+UID:4df6960f-a9cd-40f1-8187-0d0752d61c1f@4df6.org
+URL:https://www.triestenext.it/tc-events/verso-lenergia-del-futuro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nTrieste Next per le Scuole\n\nIntervengono\nBarbara Baldazzi\, ricercatrice Istat\nPaola Ungaro\, ricercatrice Istat\nL’Istat conta e racconta i 17 obiettivi di sviluppo sostenibile dell’Agenda 2030 delle Nazioni Unite. La statistica è fondamentale per misurare il benessere e la sostenibilità. Gioca con i ricercatori Istat e con gli indicatori SDGs\, scoprirai a che punto siamo nel percorso verso gli obiettivi di sviluppo sostenibile.\n\nA cura di Istat\n\n\n\nLink: https://www.triestenext.it/tc-events/1-2-3-17-goals-per-la-sostenibilita
+DTEND:20210924T084500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T080000Z
+SUMMARY:1\, 2\, 3… 17 GOALS PER LA SOSTENIBILITÀ
+UID:8d3e5892-9d50-4654-9de5-a7ebd3dfb56d@8d3e.org
+URL:https://www.triestenext.it/tc-events/1-2-3-17-goals-per-la-sostenibilita
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nMichele Giugliano\, bioingegnere SISSA\nLuca Heltai\, docente di Analisi numerica SISSA\nDiletta Pozzi\, ricercatrice in Neuroscienze SISSA\nDavide Zoccolan\, docente di Neuroscienze SISSA\n\nModera\nChiara Sabelli\, giornalista scientifica\nUn sensore poco più grande di una moneta\, da inserire ambulatorialmente. Così l’imprenditore Elon Musk promette di restituire la mobilità a pazienti paraplegici\, curare l’Alzheimer e più in generale di fondere intelligenza umana e artificiale. Ma quanta verità c’è in tutto questo? Siamo davvero alle soglie di una rivoluzione scientifico-tecnologica o di un’evoluzione in Tecno Homo Sapiens? Quali sono i rischi e le opportunità per la società? In questo incontro scopriremo quale sia il vero stato dell'arte\, separando scienza da fantascienza.\n\nA cura di SISSA\n\n\n\nLink: https://www.triestenext.it/tc-events/intelligenza-artificiale-e-microchip-nel-cervello-fantascienza-o-realta
+DTEND:20210926T091500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T080000Z
+SUMMARY:INTELLIGENZA ARTIFICIALE E MICROCHIP NEL CERVELLO: FANTASCIENZA O REALTÀ?
+UID:61b9595e-9354-4237-bce2-a3d7f53a7af1@61b9.org
+URL:https://www.triestenext.it/tc-events/intelligenza-artificiale-e-microchip-nel-cervello-fantascienza-o-realta
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nKeynote lecture di\nRoberto Battiston\, docente di Fisica sperimentale Università di Trento\, già presidente Agenzia Spaziale Italiana\n\nA seguire\, dialogo con\nSilvia Pittarello\, comunicatrice della scienza Università di Padova\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/la-nuova-corsa-allo-spazio
+DTEND:20210925T154500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T143000Z
+SUMMARY:LA NUOVA CORSA ALLO SPAZIO
+UID:1e6a861b-713b-4246-a685-b22adcef2b9f@1e6a.org
+URL:https://www.triestenext.it/tc-events/la-nuova-corsa-allo-spazio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nDialogo tra\nAntonio Casilli\, docente di Sociologia Télécom Paris\, Institut Polytechnique de Paris\, autore di Schiavi del clic (Feltrinelli)\nMassimo Cerofolini\, giornalista Eta Beta - Rai Radio 1\nL’intelligenza artificiale sostituirà gli uomini? Stiamo assistendo alla scomparsa del lavoro o alla sua digitalizzazione? E' questa la tesi di partenza di Schiavi del clic\, inchiesta sul nuovo capitalismo delle piattaforme finalista al Premio Galileo 2021\, e sarà questo il punto di partenza del dialogo a Trieste Next: centinaia di migliaia di schiavi del clic vengono reclutati in Asia\, Africa e America Latina per leggere e filtrare commenti\, classificare le informazioni e aiutare gli algoritmi ad apprendere. È una rivoluzione che ci riguarda da vicino perché trasfigura il lavoro in un gesto semplice\, frammentario e pagato sempre meno o\, perfino nulla\, quando a compierlo sono i consumatori inconsapevoli. Queste sono le strategie e le regole del nuovo taylorismo\, nel quale Amazon\, Facebook\, Uber e Google sono gli attori principali\, grazie alla capacità di sfruttare i propri utenti inducendo gesti produttivi non remunerati. La posta in gioco della nostra epoca è la lotta per il riconoscimento del lavoro di chi fa funzionare le macchine senza diritti e\, spesso\, senza consapevolezza.\n\nIn collaborazione con Premio letterario Galileo per la divulgazione scientifica\n\n\n\nLink: https://www.triestenext.it/tc-events/schiavi-del-clic
+DTEND:20210924T201500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T190000Z
+SUMMARY:SCHIAVI DEL CLIC
+UID:f6763786-d232-4889-ba05-5aa3af2186de@f676.org
+URL:https://www.triestenext.it/tc-events/schiavi-del-clic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\n\nFederico Faggin\, fisico\, inventore e imprenditore italiano\n\nintervistato da\nLuca Pagni\, giornalista la Repubblica\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/coscienza-libero-arbitrio-e-intelligenza-artificiale
+DTEND:20210925T201500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T190000Z
+SUMMARY:COSCIENZA\, LIBERO ARBITRIO E INTELLIGENZA ARTIFICIALE
+UID:fa3e9ae0-0964-444a-a5c0-f299d3179204@fa3e.org
+URL:https://www.triestenext.it/tc-events/coscienza-libero-arbitrio-e-intelligenza-artificiale
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nChristina Drew\, funzionario Unesco\nOrna Mager\, direttrice Centro multisciplinare Modi'In Reut Maccabim\nRoberto Poli\,  docente di Previsione sociale e Epistemologia delle scienze sociali Università di Trento\, titolare Cattedra UNESCO sui sistemi anticipanti\nKetty Segatti\,  vicedirettore centrale Direzione centrale lavoro\, formazione istruzione e famiglia Regione autonoma Friuli Venezia Giulia\, Autorità di Gestione del Programma Fondo Sociale Europeo 2014-2020\nSerena Tonel\, assessore Attività economiche\, Teatri\, ESOF 2020 e referente Learning City UNESCO Comune di Trieste\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/learning-city-e-apprendimento-permanente-in-un-contesto-globale
+DTEND:20210924T141500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T130000Z
+SUMMARY:LEARNING CITY E APPRENDIMENTO PERMANENTE IN UN CONTESTO GLOBALE
+UID:edae3684-50e4-4f8a-8675-f2e5f08e2a4e@edae.org
+URL:https://www.triestenext.it/tc-events/learning-city-e-apprendimento-permanente-in-un-contesto-globale
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\n\nMiloš Ajčević\, ricercatore in Ingegneria biomedica Università di Trieste\nAlfredo Berardelli\, presidente Società Italiana di Neurologia\, docente di Neurologia Università La Sapienza di Roma\nUroš Marušič\, ricercatore Centro di Ricerche Scientifiche Capodistria-Koper e coordinatore scientifico progetto TwinBrain\n\nin dialogo con\nAlex Buoite Stella\, ricercatore in Neurologia e Fisiologia Università di Trieste\nPaolo Manganotti\, docente di Neurologia Università di Trieste e direttore Clinica Neurologica ASUGI-Azienda Sanitaria Universitaria Giuliano Isontina\nRado Pišot\, direttore Centro di Ricerche Scientifiche Capodistria-Koper\nLo sviluppo tecnologico ha consentito negli ultimi anni di avere sempre maggiori possibilità di comprendere i meccanismi associati a un gran numero di patologie\, incluso il morbo di Parkinson. Su questo versante la ricerca ha fatto passi da gigante\, fornendo nuovi strumenti per supportare i pazienti e migliorare la qualità della vita. Il progetto europeo TwinBrain\, frutto della collaborazione tra Università di Trieste\, Università di Ginevra\, TU Berlino e Centro di Ricerche Scientifiche di Capodistria\, prevede un lavoro in sinergia tra scienziati di spicco nell’ambito del controllo neuromuscolare\, del MoBI - Mobile Brain/Body Imaging\, delle neuroscienze dei processi cognitivi e dell’apprendimento automatico.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/prospettive-di-ricerca-e-innovazione-nella-malattia-di-parkinson
+DTEND:20210925T171500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T160000Z
+SUMMARY:NEUROSCIENZE\, ROBOTICA E MOVIMENTO: PASSATO\, PRESENTE E FUTURO DEL PARKINSON
+UID:d66203e2-4c5a-4687-a34f-9780dee6babe@d662.org
+URL:https://www.triestenext.it/tc-events/prospettive-di-ricerca-e-innovazione-nella-malattia-di-parkinson
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nIntervengono\nNicola Armaroli\, direttore di ricerca Istituto per la sintesi organica e la fotoreattività ISOF-CNR Bologna\nCristian Fabbri\, amministratore delegato Hera Comm\nPaolo Manià\, responsabile Conduzione e Manutenzione Energia Elettrica Acegas Aps Amga\nVittorio Alberto Torbianelli\, segretario generale Autorità di Sistema Portuale del Mare Adriatico Orientale\nSulla necessità di superare le fonti di energia fossile\, o quantomeno di ridurre al minimo le emissioni\, c'è ormai una sorta di accordo generale. Così come è concorde il giudizio che passeremo sempre di più all'utilizzo dell'energia elettrica\, prodotta\, sempre di più da fonti rinnovabili. L'elettrico irromperà dunque sempre di più nelle nostre vite\, come già sta facendo nel mondo dei trasporti e in particolare delle auto. Ma l'elettrico entrerà ancora di più nelle nostre case\, non solo nelle cucine ma anche nel riscaldamento e in tante altre applicazioni. Perfino in ambito portuale sono in fase di realizzazione innovazioni importanti\, ancora tutte da scoprire e raccontare.\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/dalle-auto-alla-casa-come-lelettrico-cambiera-le-nostre-vite
+DTEND:20210925T104500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T093000Z
+SUMMARY:DALLE AUTO ALLA CASA: COME L’ELETTRICO CAMBIERÀ LE NOSTRE VITE
+UID:e72cae17-de5a-4a85-9075-ee331b4be6de@e72c.org
+URL:https://www.triestenext.it/tc-events/dalle-auto-alla-casa-come-lelettrico-cambiera-le-nostre-vite
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntroduce\nMaria Peressi\, docente di Fisica della materia Università di Trieste\n\nIntervengono\nMarco Bersanelli\, docente di Astronomia e astrofisica Università di Milano\nAnna Gregorio\, docente di Astronomia e astrofisica Università di Trieste\, CEO PicoSaTs s.r.l\n\nModera\nTiziana Piras\, docente di Letteratura italiana Università di Trieste\nLo sguardo di Dante alla natura contiene elementi (osservazione\, sperimentazione\, rigore logico) che prefigurano l’approccio scientifico. La descrizione del cosmo dantesco ha sorprendenti analogie con la visione cosmologica moderna. Di questo dialogherà Marco Bersanelli\, astrofisico appassionato di Dante e autore di numerosi saggi sulla visione dantesca del cosmo\, assieme ad Anna Gregorio\, CEO della startup innovativa PicoSaTs\, che metterà maggiormente l’accento sull’aspetto tecnologico dell’astrofisica contemporanea e le ricadute per la vita quotidiana.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/il-cielo-di-dante-il-cielo-di-oggi-e-le-tecnologie-spaziali-per-la-vita-quotidiana
+DTEND:20210926T141500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T130000Z
+SUMMARY:IL CIELO DI DANTE\, IL CIELO DI OGGI E LE TECNOLOGIE SPAZIALI PER LA VITA QUOTIDIANA
+UID:a2a42e03-cb6a-48af-a946-99a8096bd4c4@a2a4.org
+URL:https://www.triestenext.it/tc-events/il-cielo-di-dante-il-cielo-di-oggi-e-le-tecnologie-spaziali-per-la-vita-quotidiana
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nTrieste Next per le Scuole\n\nIntervengono\nLoredana Casalis\, ricercatrice Elettra Sincrotrone Trieste\nStefano Cozzini\, direttore Istituto Ricerca e Tecnologie Area Science Park\nFabio Morea\, responsabile Ufficio Studi Area Science Park\nSiamo circondati da dati\, numeri che misurano la nostra vita\, la nostra salute\, le nostre abitudini e l’ambiente in cui viviamo. La maggior parte ci arriva dal mondo della scienza. Ma come si interpreta in modo corretto questa enorme mole di dati? E perché dobbiamo imparare a leggerla e comprenderne il significato? Da dove dobbiamo partire? L’incontro\, dedicato ai ragazzi delle classi IV e V delle scuole superiori\, vuole raccontare il valore che i dati hanno nella ricerca scientifica e in che modo ci possono essere d’aiuto per prendere decisioni sul nostro futuro.\n\nA cura di Area Science Park\, Elettra Sincrotone Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/guardiamo-i-numeri-leggiamo-la-realta-e-costruiamo-un-mondo-piu-sostenibile
+DTEND:20210924T074500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T070000Z
+SUMMARY:GUARDIAMO I NUMERI\, LEGGIAMO LA REALTÀ E COSTRUIAMO UN MONDO PIÙ SOSTENIBILE
+UID:4b966c16-6e3d-4d7b-9f21-9760aa2748ed@4b96.org
+URL:https://www.triestenext.it/tc-events/guardiamo-i-numeri-leggiamo-la-realta-e-costruiamo-un-mondo-piu-sostenibile
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nInterventi di\nPaul Chawla\, amministratore delegato Eurotech\nDavide Bollati\, presidente Davines\nFrancesca Nieddu\, direttore regionale Veneto Est e Friuli Venezia Giulia Intesa Sanpaolo\n\nConduce\nLuca Pagni\, giornalista la Repubblica\nLa sostenibilità rischia di diventare\, in un mondo dove non manca chi la interpreta come green-washing\, una tanto diffusa quanto semplice evocazione. Il mondo delle imprese culturalmente più avanzate sta ormai maturando la consapevolezza che l'orizzonte sul quale si devono porre è quello di una economia dove ogni tipologia di prodotto entra a far parte di un percorso rigenerativo\, capace cioè di riutilizzare\, possibilmente all'infinito\, ogni singolo componente. Un percorso da realizzare per gradi dove ognuno ha il suo compito da svolgere: chi produce innovazione deve orientare la ricerca in questa direzione\, chi realizza i prodotti deve utilizzare a questo scopo i prodotti della ricerca scientifica e il sistema finanziario supportare questi percorsi in modo da garantire alle aziende il necessario supporto.\n\nIn collaborazione con Intesa Sanpaolo\n\n\n\nLink: https://www.triestenext.it/tc-events/tecnologie-e-sostenibilita-la-sfida-di-una-economia-rigenerativa
+DTEND:20210924T171500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T160000Z
+SUMMARY:TECNOLOGIE E SOSTENIBILITÀ. LA SFIDA DI UNA ECONOMIA RIGENERATIVA
+UID:a1f92da1-92bd-493d-b51e-93ce167b9910@a1f9.org
+URL:https://www.triestenext.it/tc-events/tecnologie-e-sostenibilita-la-sfida-di-una-economia-rigenerativa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nIntervengono\nGiovanni Albano\, medico\, direttore Dipartimento Anestesia e Terapia intensiva Humanitas Gavazzeni e Castelli di Bergamo\nOliviero Bergamini\, vicedirettore Rai News 24\nMassimo Castoldi\, direttore sanitario Ospedali Humanitas Gavazzeni Castelli\nMichela Murgia\, scrittrice [foto di Chiara Pasqualini]\n\nConduce\nTatiana Debelli\, giornalista\nIl racconto e la bellezza come terapia: raccontare storie di sollievo\, di dolore\, di gioia o di paura di fronte alla malattia\, aprendo le porte dell’ospedale e dimostrando che il racconto e la bellezza possono essere una terapia e una chiave per accompagnare la ripartenza personale e del territorio.\n\nÈ questo l’obiettivo di “Opere in Parole”\, progetto nato dalla collaborazione tra Humanitas Gavazzeni e Castelli di Bergamo e il museo Accademia di Carrara\, che ha portato oltre 1200 metri quadrati di arte in ospedale\, in un formato inedito e immersivo\, accompagnati dalle voci di grandi interpreti della cultura italiana.\n\n“Opere in Parole” si presenta a Trieste Next con alcuni dei suoi protagonisti\, Oliviero Bergamini e Michela Murgia\, per raccontare al pubblico come la medicina narrativa permette di sviluppare nuovi canali di comunicazione tra medici\, infermieri e pazienti.\n\nOliviero Bergamini presenterà il racconto di viaggio “Di viaggi e di fortezze”: ci sono le città murate di oggi e di ieri nel suo racconto di viaggio\, durante il quale fotografa con le parole l’Afghanistan nel gioco degli aquiloni dei bambini di Kabul e nei colori del mercato di Herat\, Venezia regina dei mari\, Bergamo fortezza con le Mura Venete. Chiusura e apertura. Due energie\, i due poli dell’essere. Michela Murgia\, invece\, è autrice del racconto “Il leone”. Ci sono animali di affezione\, domestici e selvatici. Una distinzione che si fonda sul tipo di rapporto che l’uomo ha con loro. E che nel racconto di Michela Murgia diventa la chiave di lettura delle relazioni tra le persone. Più precisamente tra una donna e il suo uomo\, in un moto di amore\, orgoglio e libertà rimuginato nel luogo della mente dove tutti noi culliamo i pensieri non detti.\n\nA cura di Humanitas Gavazzeni\n\n\n\nLink: https://www.triestenext.it/tc-events/cura-bellezza-e-parole-come-cambia-il-modo-di-vivere-in-ospedale-2
+DTEND:20210924T201500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T190000Z
+SUMMARY:CURA\, BELLEZZA E PAROLE: COME CAMBIA IL MODO DI VIVERE L’OSPEDALE
+UID:2c19d41c-8777-4a3e-bc9a-d545df4ab2b5@2c19.org
+URL:https://www.triestenext.it/tc-events/cura-bellezza-e-parole-come-cambia-il-modo-di-vivere-in-ospedale-2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nDialogo tra\nBarbara Mazzolai\, associated director IIT-Istituto Italiana di Tecnologia\, autrice di  La natura geniale  (Longanesi)\nGian Mario Villalta\, poeta\, scrittore\, direttore Pordenonelegge.it\nCosa hanno da insegnarci le piante? Quali dei loro segreti potrebbero aiutarci a costruire un futuro migliore e meno fosco di quello che oggi iniziamo a intravedere? La tecnologia sarà mai in grado di riprodurre la potenza nascosta e pulita del mondo vegetale? La risposta a tutte queste domande è racchiusa nel lavoro pionieristico di Barbara Mazzolai\, che ha inventato il primo robot della storia ispirato al mondo delle piante. Perfettamente adattate al loro habitat\, le piante rappresentano un’alternativa evolutiva quasi speculare a quella del mondo animale: mentre uomini e animali si sono evoluti privilegiando caratteristiche legate al movimento e alla velocità\, il mondo vegetale ha fatto della lentezza l’origine della propria resilienza. A Trieste Next un dialogo con il poeta Gian Mario Villalta\, ispirato da La Natura geniale\, scritto all'interno di uno dei laboratori scientifici più all’avanguardia del pianeta e ora finalista al Premio Galileo 2021.\n\nIn collaborazione con Premio letterario Galileo per la divulgazione scientifica\n\n\n\nLink: https://www.triestenext.it/tc-events/la-natura-geniale
+DTEND:20210926T141500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T130000Z
+SUMMARY:LA NATURA GENIALE
+UID:759438c3-5b6e-4db4-a132-c916b2909bb3@7594.org
+URL:https://www.triestenext.it/tc-events/la-natura-geniale
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nLuigino Bruni\, docente di Economia politica Università LUMSA di Roma\nFulvio Longato\, docente di Storia della Filosofia Università di Trieste\nAnna Loretoni\, docente di Filosofia politica Scuola Superiore Sant'Anna di Pisa\n\nModera\nGiulia Basso\, giornalista\, collaboratrice de Il Piccolo\, La Stampa e la Repubblica\nIl BES dell’ISTAT e gli Obiettivi di Sviluppo Sostenibile dell’ONU definiscono il benessere come interdipendenza di beni economici\, ambientali\, sociali. La sostenibilità ha bisogno di sostenitori singoli e collettivi che assumano la responsabilità condivisa di scelte per riscrivere l’alfabeto delle pratiche nell’ecosistema comune. L’idea di fondo è che lo sviluppo è sostenibile se generato da qualità nelle relazioni. Vulnerabilità\, reciprocità\, gratuità sono le parole chiave per un ben-essere consapevole della circolarità del prendersi cura di sé\, degli altri\, delle istituzioni\, dell’ambiente.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/la-sostenibile-leggerezza-del-ben-essere
+DTEND:20210926T171500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T160000Z
+SUMMARY:LA SOSTENIBILE LEGGEREZZA DEL BEN-ESSERE
+UID:7faf3e0f-681f-48db-80ef-b2175989b1fd@7faf.org
+URL:https://www.triestenext.it/tc-events/la-sostenibile-leggerezza-del-ben-essere
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nTrieste Next per le Scuole\n\nIntervengono\nRaffaella De Lia\, responsabile Public Information Office TWAS\nMax Paoli\, coordinatore Programmi TWAS\nUn seminario interattivo sul tema ONE HEALTH. L'incontro metterà in evidenza come il pianeta e gli esseri viventi siano interdipendenti\, e come ciò che tocca o interessa alcuni finisce inevitabilmente per toccare o interessare anche gli altri\, in una sorta di effetto domino. Partendo dal tema della salute in relazione al COVID\, si stimoleranno gli studenti a definire i legami che uniscono persone\, animali\, vegetazione\, risorse idriche e aria\, per approdare a un concetto di benessere più ampio\, in linea con quello dell'OMS.\n\nA cura di UNESCO-TWAS\, The World Academy of Sciences\n\n\n\nLink: https://www.triestenext.it/tc-events/one-health-la-salute-del-pianeta-e-la-nostra-salute-2-turno
+DTEND:20210924T103000Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T090000Z
+SUMMARY:ONE HEALTH: LA SALUTE DEL PIANETA È LA NOSTRA SALUTE (2° turno)
+UID:846e27e2-6491-4254-a341-f41cad097556@846e.org
+URL:https://www.triestenext.it/tc-events/one-health-la-salute-del-pianeta-e-la-nostra-salute-2-turno
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntroducono\nBruna Scaggiante\, docente di Biologia molecolare Università di Trieste\nCatrin Simeth\, dirigente medico SC Gastroenterologia ASUGI-Azienda Sanitaria Universitaria Giuliano Isontina\n\nIntervengono\nCristiano Crescentini\, docente di Psicobiologia e Psicologia fisiologica Università di Udine\nLuigi Fontana\, direttore di Medicina metabolica traslazionale e di Ricerca clinica sulla longevità University of Sydney\nAndrea Segrè\, docente di Politica agraria internazionale e comparata Università di Bologna\nFederica Suban\, presidente Fipe-Federazione Italiana Pubblici Esercizi\, testimonial myfood\nSandra Vernero\, co-fondatrice e presidente Slow Medicine\, coordinatrice Choosing Wisely Italy\n\nModera\nCristina Serra\, biologa e giornalista scientifica\nLa tutela della salute che non gravi sulla società e sul pianeta implica una profonda rivisitazione degli obiettivi di educazione\, di prevenzione e di cura. Un’etica del vivere per un futuro sostenibile è possibile promuovendo le conoscenze sui concetti della Slow medicine “longevità in salute” e “fare di più non significa fare meglio”\, sulla lotta allo spreco alimentare con “Spreco Zero” e sui benefici cognitivi della “Mindfulness”. Siamo chiamati tutti ad affiancare alla ricerca pura la filosofia del co-beneficio\, per investire in soluzioni che portino al benessere dell’umanità e dell’ambiente.\n\nA cura di Università di Trieste\, in collaborazione con ASUGI-Azienda Sanitaria Universitaria Giuliano Isontina\, AIGO-Associazione Italiana Gastroenterologi Ospedalieri e LILT-Lega Italiana per la Lotta contro i Tumori\n\n\n\nLink: https://www.triestenext.it/tc-events/longevita-slow-medicine-spreco-zero-e-mindfulness-per-un-futuro-sostenibile
+DTEND:20210925T104500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T093000Z
+SUMMARY:LONGEVITÀ\, SLOW MEDICINE\, SPRECO ZERO E MINDFULNESS PER UN FUTURO SOSTENIBILE
+UID:afa9a749-08e3-4b8e-a880-0214174ea80d@afa9.org
+URL:https://www.triestenext.it/tc-events/longevita-slow-medicine-spreco-zero-e-mindfulness-per-un-futuro-sostenibile
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervento di\nClaudio Tuniz\, fisico Centro Internazionale di Fisica Teorica Abdus Salam - ICTP\nCirca 50 000 anni fa\, nelle società di Homo sapiens\, emergono rituali collettivi in cui si stimolano le emozioni e si favorisce la socialità. Da allora\, sempre più energia viene impiegata per promuovere attività che provocano piacere e benessere. È così che anche oggi controlliamo le nostre società complesse: dispensando emozioni. Oggi questo avviene sempre più attraverso le reti digitali e le tecnologie intelligenti. Che impatto avranno queste tecnologie sulle nostre pratiche sociali e sui consumi energetici? Come modificheranno la nostra mente? Che ruolo avrà l'intelligenza artificiale?\n\nA cura di ICTP\n\n\n\nLink: https://www.triestenext.it/tc-events/felicita-e-consumo-energetico-una-prospettiva-evoluzionistica
+DTEND:20210925T154500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T143000Z
+SUMMARY:FELICITÀ E CONSUMO ENERGETICO: UNA PROSPETTIVA EVOLUZIONISTICA
+UID:3d387dd8-d9c7-4d03-8a33-7c3ae5c0f5c1@3d38.org
+URL:https://www.triestenext.it/tc-events/felicita-e-consumo-energetico-una-prospettiva-evoluzionistica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nIntroducono\nMatteo Biasotto\, docente di Malattie odontostomatologiche Università di Trieste\nNicolò de Manzini\, docente di Chirurgia generale e direttore Dipartimento Universitario Clinico di Scienze mediche\, chirurgiche e della salute Università di Trieste\n\nIntervengono\nMassimo Cacciari\, professore emerito di Filosofia\, socio Accademia Nazionale dei Lincei\nRoberto Di Lenarda\, rettore Università di Trieste\nGianfranco Sinagra\, direttore Dipartimento Cardiotoracovascolare ASUGI-Azienda Sanitaria Universitaria Giuliano Isontina\, docente di Malattie dell'apparato cardiovascolare Università di Trieste\nIl concetto di qualità di vita misura il benessere degli individui nelle sue svariate accezioni e rappresenta un concetto pluridimensionale. Secondo l’OCSE\, il benessere dipende sia da condizioni di vita materiali che da una percezione soggettiva della propria qualità di vita. Tra le condizioni materiali troviamo reddito\, lavoro\, situazione abitativa\, infrastrutture e servizi\, mentre tra quelle non materiali\, salute\, formazione\, ambiente\, sicurezza\, impegno civico e conciliabilità lavoro/vita privata. Tali criteri sono in continua evoluzione e l’attuale pandemia li ha resi meno categorizzabili.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/la-qualita-della-vita-tra-scienza-e-umanesimo
+DTEND:20210925T201500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T190000Z
+SUMMARY:LA QUALITÀ DELLA VITA TRA SCIENZA E UMANESIMO
+UID:f8225d00-605c-4e14-94b7-a4c2edc57423@f822.org
+URL:https://www.triestenext.it/tc-events/la-qualita-della-vita-tra-scienza-e-umanesimo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nAntonio Moschetta\, docente di Medicina interna Università Aldo Moro di Bari\nMaria Rescigno\, vice rettore e delegato alla ricerca Humanitas University\nLuigi Ricciardiello\, docente di Gastroenterologia Università di Bologna\n\nConduce\nRiccardo Di Deo\, divulgatore scientifico Fondazione AIRC per la ricerca sul cancro\nQuali sono le regole da seguire per adottare una dieta sostenibile? Come possiamo modificare la nostra dieta e le nostre abitudini alimentari? Sarà un’azione certamente necessaria per assicurare un futuro a quasi 10 miliardi di persone che nel 2050 popoleranno il pianeta terra. I ricercatori AIRC racconteranno come alimentarci in modo sano per prenderci cura della nostra salute e anche dell’ambiente.\n\nA cura di Fondazione AIRC per la ricerca sul cancro\n\n\n\nLink: https://www.triestenext.it/tc-events/take-care-lalimentazione-per-il-benessere-individuale-globale-e-sostenibile
+DTEND:20210925T201500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T190000Z
+SUMMARY:TAKE CARE: L’ALIMENTAZIONE PER IL BENESSERE INDIVIDUALE\, GLOBALE E SOSTENIBILE
+UID:b157ab1e-ac7c-4852-84c6-4ab522977246@b157.org
+URL:https://www.triestenext.it/tc-events/take-care-lalimentazione-per-il-benessere-individuale-globale-e-sostenibile
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nTrieste Next per le Scuole\n\nIntervento di\nRiccardo Di Deo\, divulgatore scientifico Fondazione AIRC per la ricerca sul cancro\n\nA seguire\, cerimonia di premiazione del contestChi è per te un ricercatore? In memoria di Guido Perelli Rocco\n\n\nIntervengono\nMichela Cattaruzza\, presidente Comitato AIRC Friuli Venezia Giulia\nGiannino Del Sal\, Università degli studi di Trieste\, ICGEB e Istituto FIRC di oncologia molecolare Milano\nAlessandra Frittelli\, referente progetti Scuole Fondazione AIRC per la ricerca sul cancro\nSono sempre più numerosi gli studi che stanno valutando quali siano le possibili soluzioni per ridurre l’impatto della produzione di cibo sull’ambiente\, che oggi sappiamo essere responsabile di circa il 30 per centro delle emissioni globali di gas serra. Modificare la nostra dieta e le nostre abitudini alimentari sarà un’azione certamente necessaria per assicurare un futuro a quasi 10 miliardi di persone che nel 2050 popoleranno il pianeta terra. Ma quali sono le caratteristiche di un’alimentazione in grado di garantire un equilibrio tra nutrienti assunti e risorse naturali utilizzate? Lo scopriremo in una conferenza interattiva che attraverso domande e quiz racconterà cosa sappiamo e quali scelte intraprendere per adottare un’alimentazione sana che fa bene a noi e anche all’ambiente.\n\nA cura di Fondazione AIRC per la ricerca sul cancro\n\n\n\nLink: https://www.triestenext.it/tc-events/sana-e-sostenibile-lalimentazione-per-noi-e-per-il-nostro-pianeta
+DTEND:20210924T110000Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T093000Z
+SUMMARY:SANA E SOSTENIBILE: L’ALIMENTAZIONE PER NOI E PER IL NOSTRO PIANETA
+UID:7710aa41-bbac-423f-a447-1709605564b2@7710.org
+URL:https://www.triestenext.it/tc-events/sana-e-sostenibile-lalimentazione-per-noi-e-per-il-nostro-pianeta
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nRaoul Bonnal\, senior bioinformatics & data scientist IFOM\nMassimiliano Pagani\, direttore Laboratorio di ricerca in Oncologia e Immunologia molecolare IFOM-Istituto FIRC di Oncologia Molecolare di Milano\nCaterina Suitner\, docente di Psicologia del lavoro e delle organizzazioni Università di Padova\n\nConduce\nDaniela Ovadia\, giornalista\, coordinatore scientifico CICAP Fest\, cofondatrice Center for Ethics in Science and Journalism\nIndividuare e schedare  vari tipi di cellule responsabili dei diversi tipi di tumore per individuare le più pericolose e poi colpirle : è l'obiettivo di un progetto nato dalla collaborazione tra Fondazione AIRC e Fondazione Vodafone Italia\, per il quale sarà fondamentale l’app Dreamlab che permette di mettere a disposizione della ricerca la potenza di calcolo del proprio smartphone (quando non è in uso). Questo progetto è un esempio di come la collettività sia sempre più coinvolta nel contribuire al progresso della ricerca scientifica a testimonianza di quanto le nuove tecnologie possano essere uno strumento prezioso per l’innovazione sociale e per il miglioramento della vita delle persone.\n\nIn collaborazione con Fondazione AIRC per la ricerca sul cancro\n\n\n\nLink: https://www.triestenext.it/tc-events/la-scienza-di-tutti-le-nuove-frontiere-della-citizen-science
+DTEND:20210925T091500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T080000Z
+SUMMARY:LA SCIENZA DI TUTTI: LE NUOVE FRONTIERE DELLA CITIZEN SCIENCE
+UID:50472ace-a014-4875-ba2c-65c371e3acef@5047.org
+URL:https://www.triestenext.it/tc-events/la-scienza-di-tutti-le-nuove-frontiere-della-citizen-science
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nDialogo tra\nFabrizio Fiore\, direttore INAF-Osservatorio Astronomico di Trieste\nTommaso Ghidini\, capo Divisione di Strutture\, meccanismi e materiali ESA-Agenzia Spaziale Europa\n\n\nA cura di Agenzia Spaziale Europea e INAF Osservatorio Astronomico di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/perche-vogliamo-tornare-nello-spazio
+DTEND:20210926T104500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T093000Z
+SUMMARY:PERCHÉ VOGLIAMO TORNARE NELLO SPAZIO?
+UID:f5d512df-b815-4343-940e-f40f11278b47@f5d5.org
+URL:https://www.triestenext.it/tc-events/perche-vogliamo-tornare-nello-spazio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\n\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/apertura-di-trieste-next-2021
+DTEND:20210901T093000Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210901T090000Z
+SUMMARY:APERTURA DI TRIESTE NEXT 2021
+UID:68b3b35f-636e-49aa-9dd0-6665004b5ac5@68b3.org
+URL:https://www.triestenext.it/tc-events/apertura-di-trieste-next-2021
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntroduce\nStanislao Bevilacqua\, docente di Ecologia Università di Trieste\n\nIntervengono\nCarlo Cerrano\, docente di Zoologia Università Politecnica delle Marche\nCristiana Guerranti\, assegnista di ricerca Università di Trieste\nMonia Renzi\, docente di Ecologia Università di Trieste\nAntonio Terlizzi\, docente di Zoologia Università di Trieste\n\nModera\nEleonora de Sabata\, giornalista e fotografa\, presidente associazione MedSharks\nL’inquinamento da plastica in mare è uno dei problemi emergenti del nostro tempo. Tonnellate di materiale plastico raggiungono mari e oceani con conseguenze drammatiche per gli organismi e per lo stato degli ecosistemi marini. L’incontro proporrà un punto di vista diverso sull’argomento\, mettendo in luce aspetti poco conosciuti che legano il nostro stile di vita o alcune attività umane\, come la pesca\, all’introduzione di materiali plastici negli ambienti marini\, e fornendo linee guida e consigli pratici per contribuire anche nel quotidiano a ridurre il fenomeno.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/plastiche-in-mare-linsidia-nasce-nel-quotidiano
+DTEND:20210924T171500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T160000Z
+SUMMARY:PLASTICHE IN MARE: L’INSIDIA NASCE NEL QUOTIDIANO
+UID:9fddad2c-a1f6-45eb-b081-ba765bd488ea@9fdd.org
+URL:https://www.triestenext.it/tc-events/plastiche-in-mare-linsidia-nasce-nel-quotidiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nKeynote lecture\nSahra Talamo\, direttrice BRAVHO Laboratorio di Radiocarbonio Alma Mater Studiorum Università di Bologna\, principal investigator progetto ERC Resolution\n\nA seguire\, dialogo con\nMichele Scozzai\, divulgatore\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/lorologio-del-futuro-per-svelare-gli-eventi-del-passato-i-neandertaliani-e-noi-homo-sapiens
+DTEND:20210925T091500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T080000Z
+SUMMARY:L’OROLOGIO DEL FUTURO PER SVELARE GLI EVENTI DEL PASSATO: I NEANDERTALIANI E NOI\, HOMO SAPIENS
+UID:99124d94-a45d-49c0-81c9-b950ee1f3a1a@9912.org
+URL:https://www.triestenext.it/tc-events/lorologio-del-futuro-per-svelare-gli-eventi-del-passato-i-neandertaliani-e-noi-homo-sapiens
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nLivia Bicego\, direttore Professioni Sanitarie IRCCS Burlo Garofolo\nAndrea Cassone\, infermiere responsabile Piattaforma Cure Pediatriche ad alta complessità IRCCS Burlo Garofolo\nRoberta Crevatin\, psicologa-psicoterapeuta in Ginecologia e Ostetricia SCR Fisiopatologia della Riproduzione Umana e PMA\nGiuseppe Ricci\, docente di Ostetricia e Ginecologia Università di Trieste - IRCCS Burlo Garofolo\nMaria Anna Tallandini\, già professore di Psicologia dell'età evolutiva e psicoanalista Università di Trieste\nGiuseppa Verardi\, ostetrica responsabile Piattaforma Cure Ostetriche e Ginecologiche IRCCS Burlo Garofolo\nSara Zanchiello\, tecnologo Area Science Park\nElisa Zanello\, dirigente psicologa IRCCS Burlo Garofolo\nGabriella Zito\, dirigente medico specialista in Ginecologia e Ostetricia SCR Fisiopatologia della Riproduzione Umana e Procreazione Medicalmente Assistita IRCCS Burlo Garofolo\n\nModera\nSara Ramani\, giornalista\, autrice e conduttrice televisiva FVG\, Telefriuli\nL'IRCCS Burlo Garofolo sta conducendo una ricerca sulle Rappresentazioni Mentali Genitoriali che mette a confronto le gravidanze da PMA (omologa ed eterologa) con quelle spontanee\, per valutare le differenze nei vissuti psicologici\, riconducibili sia a condizioni sociali sia a peculiari aspetti dei percorsi di PMA. Verranno presentati i servizi di consulenza psicologica per il periodo perinatale attivi presso l'Istituto\, sia per le coppie che si rivolgono alla PMA\, sia che afferiscono all'Ufficio Continuità Assistenziale.\n\nL’IRCCS Burlo Garofolo e Area Science Park\, inoltre\, hanno sviluppato un Ecosistema Digitale per l’empowerment della cittadinanza\, la connessione e l’interazione con i servizi sanitari. Il progetto comprende lo sviluppo e la sperimentazione di due soluzioni digitali-App: Percorso Nascita accoglienza e sostegno alla donna in gravidanza\, prima e dopo il parto\; Percorso Chirurgico Pediatrico accoglienza e sostegno alla famiglia prima e dopo l’intervento chirurgico pediatrico. Le soluzioni digitali insistono su una piattaforma informatica accessibile online certificata medicale CE.\n\nA cura di IRCCS Burlo Garofalo in collaborazione con Università di Trieste e Area Science Park\n\n\n\nLink: https://www.triestenext.it/tc-events/ricerca-e-innovazione-digitale-nei-percorsi-di-fecondazione-assistita-maternita-e-chirurgia-pediatrica
+DTEND:20210925T104500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T093000Z
+SUMMARY:RICERCA E INNOVAZIONE DIGITALE NEI PERCORSI DI FECONDAZIONE ASSISTITA\, MATERNITÀ E CHIRURGIA PEDIATRICA
+UID:8f5dc71d-d011-4a8f-a854-9593cf9a1a83@8f5d.org
+URL:https://www.triestenext.it/tc-events/ricerca-e-innovazione-digitale-nei-percorsi-di-fecondazione-assistita-maternita-e-chirurgia-pediatrica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nDialogo tra\nMarianna Benatti\, autrice di Well-being (Egea)\nRiccardo Caserini\, autore di Mindfulness (Egea)\n\nConduce\nGaia Fusilli\, collaboratrice VeneziePost\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/dal-wellbeing-alla-mindfulness
+DTEND:20210925T141500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T130000Z
+SUMMARY:DAL WELLBEING ALLA MINDFULNESS
+UID:243aeaf4-31ad-4532-be33-2a48a184cec6@243a.org
+URL:https://www.triestenext.it/tc-events/dal-wellbeing-alla-mindfulness
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervento di\nPier Paolo Di Fiore\, docente di Patologia generale Università di Milano\, direttore Programma Novel Diagnostics Istituto Europeo di Oncologia\, autore de  Il prezzo dell’immortalità\n\nDialogo con\nGabriele Beccaria\, giornalista Tuttoscienze e Tuttosalute La Stampa\nCosa abbiamo capito del cancro? In che modo l'abbiamo capito e come stiamo riuscendo a sconfiggerlo? Dalle mutazioni cellulari agli oncogeni\, dalle metastasi alle targeted drugs\, dai fattori di origine delle neoplasie alle tecniche di prevenzione\, dalle statistiche alle rivoluzionarie rivelazioni della scienza\, Pier Paolo Di Fiore\, oncologo di fama internazionale e finalista al Premio Galileo 2021 con Il prezzo dell'immortalità\, ci accompagna in un percorso attorno e attraverso il mondo del cancro\, con l’intento di smontare ogni falso mito e illuminare ogni zona oscura. Con un focus alla storia sociale della malattia: una storia fatta di studiosi e dottori\, di pazienti e delle loro famiglie\, di dolorose sconfitte e insperati successi\, di grandi intuizioni e madornali errori.\n\nIn collaborazione con Premio letterario Galileo per la divulgazione scientifica\n\n\n\nLink: https://www.triestenext.it/tc-events/il-prezzo-dellimmortalita
+DTEND:20210925T171500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T160000Z
+SUMMARY:IL PREZZO DELL’IMMORTALITÀ
+UID:5e526091-8b61-4367-9016-7750eadc39d3@5e52.org
+URL:https://www.triestenext.it/tc-events/il-prezzo-dellimmortalita
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nDialogo tra\nChiara Valerio\, scrittrice\, editor\, conduttrice televisiva\, autrice di La matematica è politica  (Einaudi)\nFiliberto Zovico\, fondatore ItalyPost\n\n\nIn collaborazione con Premio letterario Galileo per la divulgazione scientifica\n\n\n\nLink: https://www.triestenext.it/tc-events/la-matematica-e-politica
+DTEND:20210926T154500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T143000Z
+SUMMARY:LA MATEMATICA È POLITICA
+UID:5d8be0e3-2582-473b-a523-f9eee0ebd7c4@5d8b.org
+URL:https://www.triestenext.it/tc-events/la-matematica-e-politica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nInterviene\nGianluigi Rozza\, coordinatore area matematica e delegato innovazione e valorizzazione SISSA\n\nCon la partecipazione dei ricercatori e delle ricercatrici SISSA mathLab Nicola Demo\, Andrea Martini\, Maria Strazzullo\, Martina Teruzzi\, Marco Tezzele\n\n\nModera\nDonato Ramani\, ufficio comunicazione SISSA\nLa matematica applicata sta attraversando un momento di grande interesse\, con l’acquisizione di un ruolo centrale nell’innovazione. Grazie ai moderni calcolatori\, dati\, modelli\, gemelli digitali e intelligenza artificiale contribuiscono a un’idea di innovazione sostenibile\, in ambito industriale\, ma anche medico e ambientale. L’evento\, in forma di dialogo\, fornirà diversi esempi di progetti legati alla sostenibilità.\n\nA cura di SISSA\n\n\n\nLink: https://www.triestenext.it/tc-events/matematica-applicata-per-la-sostenibilita-dati-modelli-calcoli-intelligenza-artificiale-per-un-mondo-piu-sostenibile
+DTEND:20210925T104500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T093000Z
+SUMMARY:MATEMATICA APPLICATA PER LA SOSTENIBILITÀ: DATI\, MODELLI\, CALCOLI\, INTELLIGENZA ARTIFICIALE PER UN MONDO PIÙ SOSTENIBILE
+UID:706cf634-595b-487b-a1ba-c6c072772c4d@706c.org
+URL:https://www.triestenext.it/tc-events/matematica-applicata-per-la-sostenibilita-dati-modelli-calcoli-intelligenza-artificiale-per-un-mondo-piu-sostenibile
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nValter Cergol\, fondatore Cergol Engineering Consultancy\nPaolo Diviacco\, primo ricercatore OGS\nLuciana Grimani\, posizione organizzativa Ricerca\, sviluppo e innovazione Servizio ricerca\, apprendimento permanente e fondo sociale europeo\nAntonio Nadali\, R&D manager Transpobank\nMaria Cristina Pedicchio\, docente di Algebra Università di Trieste\, presidente mareFVG\nMarta Picciulin\,  assegnista di ricerca Università Ca’ Foscari Venezia\nMaurizio Spoto\, direttore area marina protetta WWF Miramare\n\nIntroduce e modera\nMarco Costantini\, manager di progetti internazionali ed esperto di sostenibilità della pesca marittima WWF Mediterranean Marine Initiative\n\n\nA cura di Mare FVG\, nell’ambito del progetto Progetto CORMA (POR FESR 2014-2020 FVG)\n\n\n\nLink: https://www.triestenext.it/tc-events/un-mare-di-rumori-monitoraggio-in-tempo-reale-del-rumore-sottomarino
+DTEND:20210924T154500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T143000Z
+SUMMARY:UN MARE DI RUMORI: MONITORAGGIO IN TEMPO REALE DEL RUMORE SOTTOMARINO
+UID:160ad53e-1c3d-4d43-aa8e-8def5926f315@160a.org
+URL:https://www.triestenext.it/tc-events/un-mare-di-rumori-monitoraggio-in-tempo-reale-del-rumore-sottomarino
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\n\nElena Cattaneo\, scienziata\, professore ordinario di Farmacologia all'Università di Milano e senatrice a vita\, autrice di Armati di scienza (Raffaello Cortina Editore)\n\ndialoga con\nGabriele Beccaria\, giornalista Tuttoscienze e Tuttosalute La Stampa\nArmarsi di scienza\, competere con le armi della conoscenza\, non significa abbracciare una religione né deificare lo scienziato\, anzi è vero l’opposto: non c’è dogma né verità che – in determinate condizioni– non possano essere messi in discussione\, non c’è esperto le cui affermazioni\, in forza di un malinteso senso di autorità\, non debbano essere verificate e provate. Semplicemente significa riconoscere in un metodo – quello scientifico\, sperimentale\, trasparente e ripetibile – la modalità regina per produrre mattoni di conoscenza con cui edificare le nostre società. Solo con questi piccoli mattoni\, uno dopo l’altro\, verificata la solidità di ciascuno\, si può crescere e costruire insieme il futuro\, affinché sia migliore per sempre più persone. A Trieste Next\, un dialogo che prende spunto dal libro Àrmati di scienza per tratteggiare in modo semplice e senza nozionismo i contenuti essenziali della  dimensione etica della scienza\, del coltivarne il metodo\, del rapporto altalenante tra la scienza e la politica\, tra la scienza e l’informazione.\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/armati-di-scienza
+DTEND:20210924T201500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T190000Z
+SUMMARY:ARMATI DI SCIENZA
+UID:5f2f98c6-c52a-4dc4-9a00-182fc9e22ea3@5f2f.org
+URL:https://www.triestenext.it/tc-events/armati-di-scienza
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nIntervengono\nZeno D'Agostino\, presidente Autorità di Sistema Portuale del Mare Adriatico Orientale\nVera Negri Zamagni\, docente di storia economica Universita' di Bologna e SAIS Europe della JHU\nStefano Venier\, amministratore delegato Gruppo Hera\n\nConduce\nLuca Pagni\, giornalista la Repubblica\nI percorsi di innovazione - sopratutto in questa fase storica nella quale siamo chiamati a compiere un percorso di transizione ecologica - necessitano di competenze tecnico-scientifiche di altissimo livello. Per affrontare i problemi di oggi\, anche queste competenze\, non sono di per sé sufficienti se non vengono affiancate da nuove visioni capaci di cogliere tutti gli aspetti\, inclusi quelli filosofici e antropologici\, di questo cambiamento di portata epocale. Valorizzare il capitale umano diventa così non tanto e solo una questione di generica formazione professionale\, ma un percorso che ogni realtà aziendale e istituzionale deve perseguire\, sulla base di visioni comuni\, per affrontare i complessi cambiamenti che si rendono necessari in un mondo presto popolato da 9 miliardi di esseri umani.\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/capitale-umano-innovazione-e-la-sfida-delle-sostenibilita
+DTEND:20210924T104500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T093000Z
+SUMMARY:CAPITALE UMANO\, INNOVAZIONE E LA SFIDA DELLE SOSTENIBILITÀ
+UID:e3b1ab42-e6f8-4c7a-a5d5-b59d187a6894@e3b1.org
+URL:https://www.triestenext.it/tc-events/capitale-umano-innovazione-e-la-sfida-delle-sostenibilita
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nTrieste Next per le Scuole\n\nIntroduce\nAndrea Taddio\, docente di Pediatria Università di Trieste\n\nIntervengono\nFrancesco Berlanda Scorza\, direttore GSK Vaccines Institute for Global Health\nOscar Burrone\, Emeritus Senior Scientist ICGEB-International Centre for Genetic Engineering and Biotechnology\n\nModera\nAlberto Tommasini\, immunologo e docente di Pediatria Università di Trieste\nLa storia delle vaccinazioni è quella di uno dei più efficaci interventi di prevenzione primaria\, in termini di salute individuale e sociale. Quando è stato possibile vaccinare si è persa l’esperienza e la memoria di malattie gravissime che avevano umiliato la salute e la dignità dell’uomo. Tuttavia\, quando proponiamo un vaccino dobbiamo rispondere ad alcune domande: quanto è grave la malattia da cui vogliamo difenderci? Quanto è frequente? Quanto è efficace il vaccino? Quanto è sicuro? Alcuni vaccini potrebbero essere più vantaggiosi nei paesi più ricchi o in quelli più poveri?\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/vaccinazioni-tra-finte-paure-e-verita
+DTEND:20210924T084500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T080000Z
+SUMMARY:VACCINAZIONI: TRA FINTE PAURE E VERITÀ
+UID:3b7ebc5f-94c6-45bd-b293-45cc05080955@3b7e.org
+URL:https://www.triestenext.it/tc-events/vaccinazioni-tra-finte-paure-e-verita
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nKeynote lecture di\nViktor Mayer-Schönberger\, docente di Internet Governance and Regulation Oxford Internet Institute\, autore de Fuori i dati! (Egea)\n\nA seguire\, dialogo con\nMassimo Cerofolini\, giornalista Eta Beta - Rai Radio 1\nAprire a tutti l’accesso ai dati non è solo possibile ma è fondamentale per rilanciare il progresso. L’Europa\, oggi schiacciata nella morsa della “guerra fredda tecnologica” tra Stati Uniti e Cina\, può e deve giocare un ruolo da protagonista nella costruzione di un nuovo ecosistema digitale fondato sulla libera circolazione delle informazioni\, dando così inizio a una rivoluzione in grado di scardinare i monopoli che attualmente frenano le potenzialità di sviluppo di buona parte del pianeta. Una proposta che parte da una constatazione: negli ultimi vent’anni i colossi del settore digitale sono progressivamente riusciti a concentrare sui loro server una quantità di dati impressionante. Dei veri e propri monopoli di informazioni\, che se possono far bene agli azionisti delle grandi corporation\, fanno invece male al progresso.\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/fuori-i-dati
+DTEND:20210925T141500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T130000Z
+SUMMARY:FUORI I DATI
+UID:82d37f69-bb1c-4a4d-a2d8-18877dffdf33@82d3.org
+URL:https://www.triestenext.it/tc-events/fuori-i-dati
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nDiego Borme\, ricercatore Sezione di Oceanografia OGS\nSaul Ciriaco\, responsabile attività monitoraggio e ricerca in mare WWF AMP Miramare\nSimone Libralato\, ricercatore Sezione di Oceanografia OGS\n\nModera\nDonato Ramani\, ufficio comunicazione SISSA\nLa salute del mare è sempre più minacciata dall’inquinamento\, dal riscaldamento globale e dalle diverse attività antropiche che ogni giorno mettono sempre più a rischio il delicato equilibrio dell’ecosistema marino. Ma la salute del mare è di fondamentale importanza perché a lui è strettamente legata la nostra sopravvivenza sul pianeta. Nella tavola rotonda verranno approfonditi i principali (e di maggior impatto) temi di ricerca sul mare\, dallo studio degli ambienti ricchi di biodiversità come le trezze alla sostenibilità della pesca\, dalle attività di restoration e a quelle di gestione per conservare lo stato di salute del mare.\n\nA cura di OGS e WWF AMP Miramare\n\n\n\nLink: https://www.triestenext.it/tc-events/take-with-care-la-ricerca-marina-a-supporto-della-salute-del-mare
+DTEND:20210925T141500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T130000Z
+SUMMARY:TAKE WITH CARE: LA RICERCA MARINA A SUPPORTO DELLA SALUTE DEL MARE
+UID:8990e99b-5b0d-4394-aabf-417e208d945a@8990.org
+URL:https://www.triestenext.it/tc-events/take-with-care-la-ricerca-marina-a-supporto-della-salute-del-mare
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nClaudio Bertorelli\, fondatore Asprostudio\nEzio Manzini\, presidente DESIS Network\, autore di Abitare la prossimità(Egea)\nIvana Pais\, docente di Sociologia Università Cattolica di Milano\n\nConduce\nElena Ravera\, giornalista VeneziePost\nLa città dei 15 minuti? Per esistere (e resistere) deve fondarsi su tre pilastri fondamentali: comunità\, cura e innovazione digitale. Concetti diversi\, talvolta lontani\, ma che non possono prescindere gli uni dagli altri nel dare vita a un futuro davvero a misura d’uomo. Una popolazione sempre più anziana\, fragile e isolata da un lato\, una realtà sempre più ibrida – in cui la dimensione fisica e quella digitale giocano a scambiarsi di ruolo – dall’altro\, il tutto accelerato dalla crisi sanitaria innescata dalla pandemia: il disgregamento e la desertificazione sociale sono rischi sempre più concreti e chi sognava un felice superamento del modello novecentesco della “città delle distanze” potrebbe restare deluso. La società del “tutto a/da casa” che si sta affermando\, infatti\, sembra anticipare un futuro dominato dall’individualismo e dalla solitudine. Per costruire un’alternativa credibile non si può più aspettare ed è in quest’orizzonte che si colloca la “città della prossimità abitabile”. Per raggiungerla il punto di partenza è la (ri)costruzione di una comunità in grado di rigenerarsi per durare nel tempo. Un’impresa possibile da un lato progettando le condizioni per un ambiente adatto dal punto di vista urbanistico e sociale\; dall’altro producendo degli stimoli (come eventi e iniziative) che portino a generare incontri e avviare “conversazioni” da cui possano nascere nuove comunità. Una dimensione di prossimità\, quindi\, diversificata ed equilibrata non solo tra la componente funzionale e quella relazionale\, ma anche tra la dimensione fisica e quella digitale.\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/abitare-la-prossimita
+DTEND:20210925T154500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T143000Z
+SUMMARY:ABITARE LA PROSSIMITÀ
+UID:2f69bb94-448b-4d29-9354-5823d726370c@2f69.org
+URL:https://www.triestenext.it/tc-events/abitare-la-prossimita
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nCosimo Solidoro\, direttore sezione Oceanografia OGS\nPierre Thibault\, docente di Fisica applicata Università di Trieste\nChristina Wood\, studentessa “Mayflower” di dottorato Centro Nazionale di Oceanografia di Southampton\n\nModera\nIrene Zanette\, ricercatrice Elettra Sincrotrone Trieste\nLo studio degli ecosistemi marini può fornire preziose informazioni sui cambiamenti climatici. Nel Mare di Norvegia\, la vita di piccole stelle marine che si cibano dei sedimenti fangosi\, contribuendo anche al ciclo della cattura del carbonio\, è fortemente influenzata dagli effetti antropogenici sul loro ecosistema. Con l’impiego di avanzate tecniche di imaging a raggi X presso Elettra Sincrotrone Trieste siamo in grado di visualizzare dettagliatamente gli organi interni di questi esemplari di stelle marine e trarre conclusioni per prevedere l’evoluzione di specie che popolano i mari del Nord.\n\nA cura di Elettra Sincrotrone Trieste\, Università di Trieste\, OGS\n\n\n\nLink: https://www.triestenext.it/tc-events/stelle-marine-sentinelle-dei-cambiamenti-climatici
+DTEND:20210924T154500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T143000Z
+SUMMARY:STELLE MARINE\, SENTINELLE DEI CAMBIAMENTI CLIMATICI
+UID:30c85e51-601a-4419-a7de-a9341554aacf@30c8.org
+URL:https://www.triestenext.it/tc-events/stelle-marine-sentinelle-dei-cambiamenti-climatici
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nStefano Alessandrini\, tecnologo esperto di sostenibilità ambientale Area Science Park\nGiulio Bernetti\, responsabile Territorio Economia Ambiente e Mobilità Comune di Trieste\nFederica Flapp\, coordinatrice del primo Studio sui cambiamenti climatici in Friuli Venezia giulia\, ARPAV FVG\nFilippo Giorgi\, climatologo responsabile Sezione Fisica della Terra ICTP\n\nConduce\nOmar Monestier\, direttore  Il Piccolo\nQuali sono i pericoli climatici più rilevanti? Che impatto posso avere nei diversi settori (energia\, salute\, mobilità)? E\, inoltre\, quali possono essere le conseguenze economiche della non-azione? Sono numerosi i temi su cui scienziati\, imprenditori\, decisori politici e\, più in generale\, cittadini sono chiamati a esprimere pareri e prendere decisioni responsabili in un’ottica di sicurezza globale e salvaguardia del Pianeta. Dall’analisi all’azione\, l’incontro parte da un inquadramento generale del problema per poi fare un focus sulla città di Trieste.\n\nA cura di Area Science Park in collaborazione con ARPA FVG\, Comune di Trieste e ICTP\n\n\n\nLink: https://www.triestenext.it/tc-events/abitare-il-futuro-limpatto-dei-cambiamenti-climatici-nei-centri-urbani
+DTEND:20210926T104500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T093000Z
+SUMMARY:ABITARE IL FUTURO: L’IMPATTO DEI CAMBIAMENTI CLIMATICI NEI CENTRI URBANI
+UID:3a9fde79-92e9-420b-bfcf-713788bbf93f@3a9f.org
+URL:https://www.triestenext.it/tc-events/abitare-il-futuro-limpatto-dei-cambiamenti-climatici-nei-centri-urbani
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntroduce\nStefano Fantoni\, presidente Fondazione Internazionale Trieste\n\nIntervengono\nGiovanni Carrosio\, Università di Trieste\nVittorio Cogliati Dezza\, membro Coordinamento Forum Diseguaglianze e Diversità\nAndrea Illy\, presidente illycaffé\nMatteo Marsili\, ICTP-Centro Internazionale di Fisica Teorica\nCaterina Petrillo\, presidente Area Science Park\n\n\nA cura di Fondazione Internazionale Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/la-sostenibilita-e-sostenibile-sapere-tutela-e-partecipazione-per-costruire-il-futuro
+DTEND:20210925T171500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T160000Z
+SUMMARY:LA SOSTENIBILITÀ È SOSTENIBILE? SAPERE\, TUTELA E PARTECIPAZIONE PER COSTRUIRE IL FUTURO
+UID:00226684-d955-40c9-88cc-295a8f07a3bf@0022.org
+URL:https://www.triestenext.it/tc-events/la-sostenibilita-e-sostenibile-sapere-tutela-e-partecipazione-per-costruire-il-futuro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervento di\nValerio Lucarini\, docente di Meccanica statistica Università of Reading\nElisa Palazzi\, climatologa e docente Università di Torino\, CNR-IOM\nLa dinamica e la complessità del clima in un dialogo a due voci con Elisa Palazzi dell'Università di Torino e Valerio Lucarini della University of Reading\, uk. I due ospiti si incontreranno in una tavola rotonda per raccontare il tema del cambiamento climatico affrontandone in particolare due aspetti. Quello teorico\, per mostrare al pubblico cosa vuol dire essere immersi in un sistema complesso\, caratterizzato da forti non linearità: un sistema che cambia sotto l'azione di dinamiche interne e di agenti naturali e antropici. E un aspetto più pratico\, legato alla comunicazione pubblica del problema. Perché con quella complessità si deve fare i conti\, e le attuali incertezze sono motore della ricerca e della curiosità. Tutto questo per rispondere all'urgenza nell'intraprendere azioni di contrasto al cambiamento climatico.\n\nA cura di CNR-IOM\, SISSA\n\n\n\nLink: https://www.triestenext.it/tc-events/cambiamenti-climatici-tra-scienza-e-comunicazione
+DTEND:20210925T171500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T160000Z
+SUMMARY:CAMBIAMENTI CLIMATICI\, TRA SCIENZA E COMUNICAZIONE
+UID:279ac883-5a00-4327-9927-a7379b17f798@279a.org
+URL:https://www.triestenext.it/tc-events/cambiamenti-climatici-tra-scienza-e-comunicazione
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nDialoghi sul futuro\n\nKeynote lecture\nAlberto Mantovani\, direttore scientifico Humanitas\, professore emerito Humanitas University\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/immunita-e-infiammazione-un-sogno-e-una-sfida-dal-cancro-a-covid-19
+DTEND:20210926T141500Z
+LOCATION:Area Talk\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T130000Z
+SUMMARY:IMMUNITÀ E INFIAMMAZIONE: UN SOGNO E UNA SFIDA DAL CANCRO A COVID-19
+UID:f182f921-81d8-44d6-87e3-9c7efa7f516a@f182.org
+URL:https://www.triestenext.it/tc-events/immunita-e-infiammazione-un-sogno-e-una-sfida-dal-cancro-a-covid-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nTrieste Next per le Scuole\n\nIntervengono\nRaffaella De Lia\, responsabile Public Information Office TWAS\nMax Paoli\, coordinatore Programmi TWAS\nUn seminario interattivo sul tema ONE HEALTH. L'incontro metterà in evidenza come il pianeta e gli esseri viventi siano interdipendenti\, e come ciò che tocca o interessa alcuni finisce inevitabilmente per toccare o interessare anche gli altri\, in una sorta di effetto domino. Partendo dal tema della salute in relazione al COVID\, si stimoleranno gli studenti a definire i legami che uniscono persone\, animali\, vegetazione\, risorse idriche e aria\, per approdare a un concetto di benessere più ampio\, in linea con quello dell'OMS.\n\nA cura di UNESCO-TWAS\, The World Academy of Sciences\n\n\n\nLink: https://www.triestenext.it/tc-events/one-health-la-salute-del-pianeta-e-la-nostra-salute
+DTEND:20210924T083000Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T070000Z
+SUMMARY:ONE HEALTH: LA SALUTE DEL PIANETA È LA NOSTRA SALUTE (1° turno)
+UID:799f493b-e560-48c1-8c33-4854898ddefa@799f.org
+URL:https://www.triestenext.it/tc-events/one-health-la-salute-del-pianeta-e-la-nostra-salute
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nUn mare di archeologia\n\nIntervento di\nMassimo Sgambati\, docente di Lettere\n\n\n\n\n\n\nLink: https://www.triestenext.it/tc-events/chi-e-cufter
+DTEND:20210924T201500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T190000Z
+SUMMARY:CHI È CUFTER?
+UID:d1e663b0-65b2-461a-95d1-1b768d93fc83@d1e6.org
+URL:https://www.triestenext.it/tc-events/chi-e-cufter
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nJacopo Grilli\, ricercatore associato Quantitative Life Sciences ICTP\nMauro Mezzetto\, dirigente di ricerca INFN Padova\nGuido Sanguinetti\, data scientist SISSA\nElisabetta Tola\, giornalista  Radio 3 Scienza\n\nModera\nChiara Anzolini\, ricercatrice e comunicatrice della scienza\nUna corretta analisi statistica dei dati relativi alla diffusione del Covid-19 in Italia è un tema di interesse pubblico. Mai come durante i mesi scorsi\, la conoscenza dei dati della pandemia ha giocato un ruolo tanto decisivo nella vita della comunità civile. La tavola rotonda intende illustrare alcuni progetti a carattere nazionale e regionale volti all'analisi dei dati del COVID-19 e discutere le implicazioni di una loro corretta interpretazione e comunicazione per le scelte di individui\, policy makers e società.\n\nA cura di INFN Trieste\, SISSA\, ICTP\n\n\n\nLink: https://www.triestenext.it/tc-events/la-pandemia-i-dati-e-il-pubblico-strategie-di-analisi-e-di-comunicazione
+DTEND:20210924T141500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T130000Z
+SUMMARY:LA PANDEMIA\, I DATI E IL PUBBLICO. STRATEGIE DI ANALISI E DI COMUNICAZIONE
+UID:654647b0-8407-4a0a-b6b8-1b4165955844@6546.org
+URL:https://www.triestenext.it/tc-events/la-pandemia-i-dati-e-il-pubblico-strategie-di-analisi-e-di-comunicazione
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntroduce\nGabriele Stocco\, docente di Farmacologia Università di Trieste\n\nIntervengono\nRaffaella Franca\, ricercatrice in Farmacologia Università di Trieste\nArmando Genazzani\, docente di Farmacologia Università del Piemonte Orientale\nAlberto Tommasini\, immunologo e docente di Pediatria Università di Trieste\n\nModera\nMaria Spezia\, giornalista  Rai FVG\nLa scelta dei farmaci avviene anche nei casi più difficili\, ancora su base empirica: l’ideale sarebbe poter caratterizzare ogni paziente sul piano genomico-molecolare e clinico per individuare\, per ognuno\, il farmaco specificamente più adatto e i dosaggi ideali per ottenere la massima efficacia col minimo rischio di effetti collaterali. Siamo ora in grado di creare farmaci sulla base di caratteristiche molecolari individuali: verranno dunque discussi i limiti e le prospettive di tali farmaci. Anche questi farmaci intelligenti\, infatti\, andranno validati in studi adeguati di efficacia.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/farmaci-su-misura-personalizzare-le-cure-per-il-bene-di-tutti
+DTEND:20210925T154500Z
+LOCATION:Area Next\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T143000Z
+SUMMARY:FARMACI SU MISURA: PERSONALIZZARE LE CURE PER IL BENE DI TUTTI
+UID:18af5b72-94d6-41cb-95b0-4bb350fcd45b@18af.org
+URL:https://www.triestenext.it/tc-events/farmaci-su-misura-personalizzare-le-cure-per-il-bene-di-tutti
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nAndrea Crismani\, docente di Diritto amministrativo Università di Trieste\nMichele D’Agnolo\, commercialista esperto in riorganizzazione di strutture professionali\nGiovanni Grandi\, docente di Filosofia morale Università di Trieste\nPaola Marinosci\, ricercatrice in Diritto amministrativo Università di Trieste\nEdoardo Milotti\, docente di Fisica sperimentale Università di Trieste\nFrancesca Santulli\, docente di Linguistica e glottologia Università Ca’ Foscari di Venezia\n\nModera\nUmberto Bosazzi\, giornalista Telequattro\nSpesso le amministrazioni pubbliche elaborano frasi complesse che impediscono una comunicazione efficace. Il legal design si propone di individuare espressioni e spiegazioni facilmente comprensibili che rendano la legge accessibile a chiunque. Ciò non solo è fondamentale nel momento dell’emergenza\, in cui la chiarezza è essenziale per salvare vite e garantire i diritti fondamentali\, ma più oltre crea una nuova etica della comunicazione pubblica. Non è un sogno\, ma un progetto realizzabile se si utilizzano adeguati strumenti linguistici e logico-argomentativi\, anche con l’aiuto delle nuove tecnologie informatiche.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/legal-design-letica-della-comunicazione-legale
+DTEND:20210926T091500Z
+LOCATION:Regione Autonoma Friuli Venezia Giulia\, Salone di Rappresentanza\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210926T080000Z
+SUMMARY:LEGAL DESIGN: L’ETICA DELLA COMUNICAZIONE LEGALE
+UID:0bbb3737-55a7-4b20-9845-5fe14bcb1493@0bbb.org
+URL:https://www.triestenext.it/tc-events/legal-design-letica-della-comunicazione-legale
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nAlex Buoite Stella\, ricercatore in Neurologia e Fisiologia Università di Trieste\nMichela Flaborea\, presidente Televita Trieste\nPaolo Manganotti\, docente di Neurologia Università di Trieste e direttore Clinica Neurologica ASUGI-Azienda Sanitaria Universitaria Giuliano Isontina\n\nModera\nMiloš Ajčević\, ricercatore in Ingegneria biomedica Università di Trieste\nLo sviluppo di nuove tecnologie indossabili per il monitoraggio dei parametri fisiologici ha consentito di definire nuovi protocolli e migliorare l’assistenza ai soggetti più vulnerabili\, favorendo l’approccio personalizzato ai singoli bisogni e alle singole condizioni. Si discuterà dell’importanza dello sviluppo e dell’utilizzo delle tecnologie avanzate di telemonitoraggio\, presentando i risultati del progetto Cloud Assisted per la Salute e Sicurezza (CASSIA) che confermano che queste tecnologie hanno assunto un ruolo ancor più importante durante la pandemia da COVID-19.\n\nA cura di Università di Trieste\n\n\n\nLink: https://www.triestenext.it/tc-events/smart-health-per-la-salute-e-il-benessere-della-cittadinanza
+DTEND:20210924T171500Z
+LOCATION:Museo Revoltella\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210924T160000Z
+SUMMARY:SMART HEALTH PER LA SALUTE E IL BENESSERE DELLA CITTADINANZA
+UID:34c080cd-a7b2-4982-81da-9b4decb38b01@34c0.org
+URL:https://www.triestenext.it/tc-events/smart-health-per-la-salute-e-il-benessere-della-cittadinanza
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sezione\nIncontri con la scienza\n\nIntervengono\nOriana Cok\, fondatrice e amministratore delegato Gruppo Pragma\nAlessandra Lanzoni\, dottoranda in Scienze della Terra\, Fluidodinamica e Matematica Università di Trieste\nFrancesco Longo\, docente di Fisica sperimentale Università di Trieste e INFN Trieste\nSerena Mizzan\, direttrice Immaginario Scientifico\nRiccardo Taddei\, educatore coordinatore Centro SMaC Comunità di San Martino al Campo\n\nModera\nSimona Cerrato\, comunicatrice della scienza Sissa Medialab\nL’incontro è un invito a riflettere sulla scuola come elemento di un ecosistema complesso costituito istituzioni scientifiche\, associazioni\, aziende\, decisori politici\, musei\, media ecc. che concorrono ad arricchirlo e a sostenerlo. Lo spunto per contribuire a delineare il nostro modello ideale di scuola viene dalla costituzione del Local Educational Cluster (LEC) di Trieste nell’ambito del progetto europeo PHERECLOS (https://www.phereclos.eu/)\, nato nel 2019. Il focus di PHERECLOS è la creazione di sei Local Educational Cluster (LEC) in sei paesi diversi del consorzio\, ognuno dei quali valorizza le specificità della propria realtà locale: Austria\, Polonia\, Finlandia\, Portogallo\, Colombia e Italia. Il LEC di Trieste si basa sull’esistenza della rete Trieste Città della Conoscenza già attiva e già molto attenta alle esigenze e ai bisogni della scuola.\n\nA cura di Sissa Medialab\n\n\n\nLink: https://www.triestenext.it/tc-events/la-scuola-che-vogliamo
+DTEND:20210925T091500Z
+LOCATION:Museo Civico Sartorio\, Sala Costantinides\, Trieste
+ORGANIZER;CN=Triste Next:mailto:info@goodnet.it
+DTSTART:20210925T080000Z
+SUMMARY:LA SCUOLA CHE VOGLIAMO
+UID:fc794ca4-870c-4ebc-b5c6-683cbda3fdab@fc79.org
+URL:https://www.triestenext.it/tc-events/la-scuola-che-vogliamo
+END:VEVENT
+END:VCALENDAR
+

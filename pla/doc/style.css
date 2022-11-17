@@ -1,0 +1,224 @@
+/*------------------------------------------------------------------------------------------------------*\
+
+	style.css
+
+	CSS collection
+
+	alice
+
+
+\*------------------------------------------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------------------------------------------*\
+	main elements
+\*------------------------------------------------------------------------------------------------------*/
+BODY {
+	background: #fcfcff;
+	color: #303030;
+	font-family: "Verdana", "Arial", serif;
+	font-size: 12pt;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+BODY.alt {
+	background: #fcfcff;
+	color: #303030;
+	font-family: "Verdana", "Arial", serif;
+	font-size: 10pt;
+	margin-left: 30px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+:link {
+	color: #006868;
+}
+:visited {
+	color: #006868;
+}
+H1 {
+	font-size: 18pt;
+	font-weight: bold;
+	text-align: center;
+	color: #555599;
+}
+H2 {
+	font-size: 16pt;
+	font-weight: bold;
+	text-align: center;
+	color: #000099;
+}
+H3 {
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+	color: #555599;
+}
+H4 {
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: center;
+	color: #555599;
+}
+
+A.clean {
+	font-size: 9pt;
+}
+
+A:link {
+	text-decoration: none;
+	font-size: 9pt;
+	color: #006868;
+}
+
+A:hover {
+	text-decoration: none;
+	font-size: 9pt;
+	color: #996868;
+}
+
+P {
+	font-size: 9pt;
+}
+
+LI {
+	font-size: 9pt;
+}
+
+P.code {
+	font-size: 9pt;
+}
+CODE {
+	margin-left: 30px;
+	font-size: 10pt;
+	color: #000000;
+	font-weight: bold;
+}
+
+/*------------------------------------------------------------------------------------------------------*\
+	containers
+\*------------------------------------------------------------------------------------------------------*/
+DIV.desc {
+	text-align: left;
+	font-size: 10pt;
+	font-weight: normal;
+	background: #d0d0df;
+	color: #484848;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-right: 30px;
+	padding: 20px;
+}
+
+/*------------------------------------------------------------------------------------------------------*\
+	tables
+\*------------------------------------------------------------------------------------------------------*/
+TABLE.fields {
+	border-collapse: collapse;
+	border: 10px solid #d0d0df;
+	background: #f0f0ff;
+	margin-left: 30px;
+}
+TABLE.results {
+	border-collapse: collapse;
+	border: 7px solid #a0a0b0;
+	background: #f0f0ff;
+}
+TABLE.inlined {
+	border-collapse: collapse;
+	border: 0px solid #749a88;
+	background: #dbdbeb;
+	font-size: 8pt;
+}
+TABLE.buttons {
+	border-collapse: collapse;
+	border: 0px;
+}
+TABLE.container {
+	border-collapse: collapse;
+}
+TH {
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	font-size: 9pt;
+}
+TD {
+	text-align: left;
+	padding: 2px 1px 1px 4px;
+	vertical-align: top;
+	font-size: 9pt;
+}
+
+TD.s1 {
+	width: 270px;
+	padding: 2px 12px 8px 12px;
+}
+TD.s2 {
+	width: 200px;
+	padding: 2px 12px 8px 12px;
+}
+TD.s3 {
+	width: 500px;
+	padding: 2px 12px 8px 12px;
+}
+TD.s4 {
+	width: 140px;
+	padding: 2px 12px 2px 20px;
+}
+TD.s5 {
+	width: 50px;
+	padding: 2px 12px 4px 12px;
+}
+
+
+/*------------------------------------------------------------------------------------------------------*\
+	buttons
+\*------------------------------------------------------------------------------------------------------*/
+.mainbutton {
+	font-size: 10pt;
+	border: 1px solid #ababca;
+	background: #cbcbda;
+	width: 180px;
+	height: 27px;
+	color: #484848;
+}
+.mainbutton:hover {
+	color: #cbcbda;
+	background: #686868;
+}
+
+/*------------------------------------------------------------------------------------------------------*\
+	paragraphs
+\*------------------------------------------------------------------------------------------------------*/
+P.msg {
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	font-size: 10pt;
+	color: #484848;
+}
+P.txt {
+	font-size: 10pt;
+	font-weight: bold;
+}
+P.news {
+	margin-right: 6em;
+	margin-left: 4em;
+	background: yellow;
+	color: #000080;
+	font-size: 12pt;
+}
+P.note {
+	font-size: 9pt;
+}
+P.alert {
+	margin-right: 6em;
+	margin-left: 4em;
+	background: yellow;
+	color: #000080;
+	font-weight: bold;
+	font-size: 12pt;
+}

@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>pla.Pla</title>
+  <link rel="stylesheet" href="epydoc.css" type="text/css" />
+  <script type="text/javascript" src="epydoc.js"></script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="#204080"
+      alink="#204080">
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            ><a class="navbar" target="_top" href="../..">Programmable Logic Array Simulator - Alice Plebe, Matteo Cavallaro</a></th>
+          </tr></table></th>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="100%">
+      <span class="breadcrumbs">
+        <a href="pla-module.html">Module&nbsp;pla</a> ::
+        Class&nbsp;Pla
+      </span>
+    </td>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <!-- hide/show private -->
+        <tr><td align="right"><span class="options">[<a href="javascript:void(0);" class="privatelink"
+    onclick="toggle_private();">hide&nbsp;private</a>]</span></td></tr>
+        <tr><td align="right"><span class="options"
+            >[<a href="frames.html" target="_top">frames</a
+            >]&nbsp;|&nbsp;<a href="pla.Pla-class.html"
+            target="_top">no&nbsp;frames</a>]</span></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- ==================== CLASS DESCRIPTION ==================== -->
+<h1 class="epydoc">Class Pla</h1><p class="nomargin-top"><span class="codelink"><a href="pla-pysrc.html#Pla">source&nbsp;code</a></span></p>
+<pre class="base-tree">
+object --+
+         |
+        <strong class="uidshort">Pla</strong>
+</pre>
+
+<hr />
+<p>La classe del circuito PLA. Comprende i parametri definitori del 
+  layout del circuito, include nei suoi attributi le liste di tutti gli 
+  oggetti di classe Component che costituiscono il circuito.</p>
+  <p>Un oggetto Pla viene inizializzato con argomento il Tk root 
+  widget.</p>
+  <p>Notare i tre livelli di coordinate che coesistono nel simulatore:</p>
+  <ol start="1">
+    <li>
+      normalizzate [0...1]
+    </li>
+    <li>
+      assolute [pixel]
+    </li>
+    <li>
+      in unit&#224; di griglia, corrispondente alla distanza fra due fusibili 
+      adiacenti uguale nelle due dimensioni
+    </li>
+  </ol>
+  <p>Tutti i tre sistemi di riferimento hanno origine nell'angolo superiore
+  sinistro.</p>
+
+<!-- ==================== INSTANCE METHODS ==================== -->
+<a name="section-InstanceMethods"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Instance Methods</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-InstanceMethods"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_layout" class="summary-sig-name" onclick="show_private();">_layout</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      Calcola diversi parametri derivati per stabilire il layout dei 
+      componenti.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._layout">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_m_init" class="summary-sig-name" onclick="show_private();">_m_init</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">o</span>,
+        <span class="summary-sig-arg">c</span>)</span><br />
+      Funzione ausiliaria per inserire nel menu a tendina le descrizioni 
+      dei circuiti di libreria.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._m_init">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="_g_init"></a><span class="summary-sig-name">_g_init</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Inizializza i vari NumPy array per ogni categoria di componente.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._g_init">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#__init__" class="summary-sig-name">__init__</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">root</span>)</span><br />
+      Inizializza il Programmable Logic Array</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.__init__">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#nor_to_abs" class="summary-sig-name">nor_to_abs</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">n</span>)</span><br />
+      Converte coordinate normalizzate in dimensioni assolute.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.nor_to_abs">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#add_and" class="summary-sig-name">add_and</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">y</span>)</span><br />
+      Crea una porta AND e aggiunge l'oggetto grafico nell'array 
+      corrispondente.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.add_and">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_and"></a><span class="summary-sig-name">place_and</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Crea tutte le porte AND nelle posizioni stabilite dal layout.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_and">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#add_or" class="summary-sig-name">add_or</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">x</span>)</span><br />
+      Crea una porta OR e aggiunge l'oggetto grafico nell'array 
+      corrispondente.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.add_or">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_or"></a><span class="summary-sig-name">place_or</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Crea tutte le porte OR nelle posizioni stabilite dal layout.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_or">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#add_not" class="summary-sig-name">add_not</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">x</span>)</span><br />
+      Crea una porta NOT e aggiunge l'oggetto grafico nell'array 
+      corrispondente.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.add_not">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_not"></a><span class="summary-sig-name">place_not</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Crea tutte le porte NOT nelle posizioni stabilite dal layout.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_not">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#place_inputs" class="summary-sig-name">place_inputs</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      Crea tutti i pin di input e conserva gli oggetti grafici negli array.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_inputs">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#place_outputs" class="summary-sig-name">place_outputs</a>(<span class="summary-sig-arg">self</span>)</span><br />
+      Crea tutti i pin di output e conserva gli oggetti grafici negli 
+      array.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_outputs">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_wire_in"></a><span class="summary-sig-name">place_wire_in</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Realizza i collegamenti tra i fusibili nella matrice di collegamenti 
+      tra input e porte AND.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_wire_in">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_wire_out"></a><span class="summary-sig-name">place_wire_out</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Realizza i collegamenti tra i fusibili nella matrice di collegamenti 
+      tra porte AND e OR.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_wire_out">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_get_fuse_in" class="summary-sig-name" onclick="show_private();">_get_fuse_in</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">tag</span>)</span><br />
+      Restituisce l'oggetto grafico del fusibile corrispondente ad un 
+      <i>tag</i>, appartenente alla matrice IN-AND.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._get_fuse_in">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_fuse_in"></a><span class="summary-sig-name">place_fuse_in</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Crea i fusibili relativi alla matrice IN-AND.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_fuse_in">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_get_fuse_out" class="summary-sig-name" onclick="show_private();">_get_fuse_out</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">tag</span>)</span><br />
+      Restituisce l'oggetto grafico del fusibile corrispondente ad un 
+      <i>tag</i>, appartenente alla matrice AND-OR.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._get_fuse_out">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_fuse_out"></a><span class="summary-sig-name">place_fuse_out</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Crea i fusibili relativi alla matrice AND-OR.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_fuse_out">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#switch_fuse_in" class="summary-sig-name">switch_fuse_in</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">tag</span>)</span><br />
+      Realizza lo switch di un fusibile della matrice IN-AND.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.switch_fuse_in">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#switch_fuse_out" class="summary-sig-name">switch_fuse_out</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">tag</span>)</span><br />
+      Realizza lo switch di un fusibile della matrice AND-OR.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.switch_fuse_out">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#get_tag" class="summary-sig-name">get_tag</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">x</span>,
+        <span class="summary-sig-arg">y</span>,
+        <span class="summary-sig-arg">comp</span>=<span class="summary-sig-default">None</span>)</span><br />
+      Cerca il componente pi&#249; vicino alla coordinata specificata, e ne 
+      restituisce il <i>tag</i>.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.get_tag">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_event_q" class="summary-sig-name" onclick="show_private();">_event_q</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">event</span>)</span><br />
+      Gestore della <i>shortcut</i> da tastiera 
+      &quot;q&quot;/&quot;Q&quot;.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._event_q">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_event_f" class="summary-sig-name" onclick="show_private();">_event_f</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">event</span>)</span><br />
+      Gestore della <i>shortcut</i> da tastiera 
+      &quot;f&quot;/&quot;F&quot;.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._event_f">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_event_u" class="summary-sig-name" onclick="show_private();">_event_u</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">event</span>)</span><br />
+      Gestore della <i>shortcut</i> da tastiera 
+      &quot;u&quot;/&quot;U&quot;.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._event_u">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr class="private">
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#_event_r" class="summary-sig-name" onclick="show_private();">_event_r</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">event</span>)</span><br />
+      Gestore della <i>shortcut</i> da tastiera 
+      &quot;r&quot;/&quot;R&quot;.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla._event_r">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#handler" class="summary-sig-name">handler</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">event</span>)</span><br />
+      Identifica il componente su cui si &#232; cliccato e esegue l'opportuna 
+      operazione.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.handler">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="place_components"></a><span class="summary-sig-name">place_components</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Posiziona l'intero set di componenti nel layout, e avvia la gestione 
+      del mouse.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.place_components">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#compute_and" class="summary-sig-name">compute_and</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">r</span>)</span><br />
+      Computa la funzione di una porta logica AND.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.compute_and">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="compute_ands"></a><span class="summary-sig-name">compute_ands</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Calcola gli output ottenuti dalle porte AND.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.compute_ands">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#compute_out" class="summary-sig-name">compute_out</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">c</span>)</span><br />
+      Computa la funzione di una porta logica OR.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.compute_out">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="compute_outs"></a><span class="summary-sig-name">compute_outs</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Calcola gli output ottenuti dalle porte OR, e quindi dell'intero PLA.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.compute_outs">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="run"></a><span class="summary-sig-name">run</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Avvia la computazione dell'output del PLA.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.run">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="fuse_all"></a><span class="summary-sig-name">fuse_all</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Resetta i componenti grafici come al momento di avvio del programma, 
+      con i fusibili tutti non collegati.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.fuse_all">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a name="reset"></a><span class="summary-sig-name">reset</span>(<span class="summary-sig-arg">self</span>)</span><br />
+      Resetta i componenti grafici come al momento di avvio del programma, 
+      con i fusibili tutti collegati.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.reset">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><span class="summary-sig"><a href="pla.Pla-class.html#load" class="summary-sig-name">load</a>(<span class="summary-sig-arg">self</span>,
+        <span class="summary-sig-arg">circ</span>)</span><br />
+      Carica uno dei circuiti disponibili in libreria.</td>
+          <td align="right" valign="top">
+            <span class="codelink"><a href="pla-pysrc.html#Pla.load">source&nbsp;code</a></span>
+            
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="summary">
+    <p class="indent-wrapped-lines"><b>Inherited from <code>object</code></b>:
+      <code>__delattr__</code>,
+      <code>__format__</code>,
+      <code>__getattribute__</code>,
+      <code>__hash__</code>,
+      <code>__new__</code>,
+      <code>__reduce__</code>,
+      <code>__reduce_ex__</code>,
+      <code>__repr__</code>,
+      <code>__setattr__</code>,
+      <code>__sizeof__</code>,
+      <code>__str__</code>,
+      <code>__subclasshook__</code>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ==================== CLASS VARIABLES ==================== -->
+<a name="section-ClassVariables"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Class Variables</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-ClassVariables"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="debug"></a><span class="summary-name">debug</span> = <code title="0">0</code><br />
+      livello di debug, dev'essere = 0 in produzione
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a href="pla.Pla-class.html#usage" class="summary-name">usage</a> = <code title="&quot;&quot;&quot;%prog [-x x_size][-i n_inputs][-o n_outputs][-a n_and]&quot;&quot;&quot;">&quot;&quot;&quot;%prog [-x x_size][-i n_inputs][-o n_outputs][-a n_a<code class="variable-ellipsis">...</code></code>
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="title"></a><span class="summary-name">title</span> = <code title="'PLA simulator'">'PLA simulator'</code><br />
+      titolo della finestra in cui &#232; contenuto il simulatore
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">frazione della lunghezza della finestra</span>
+    </td><td class="summary">
+        <a name="halo"></a><span class="summary-name">halo</span> = <code title="0.025">0.025</code><br />
+      gittata del click nel selezionare fusibili
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type"># grid_delta</span>
+    </td><td class="summary">
+        <a name="l_and"></a><span class="summary-name">l_and</span> = <code title="2.7">2.7</code><br />
+      spazio orizzontale dedicato alle AND
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type"># grid_delta</span>
+    </td><td class="summary">
+        <a name="l_or"></a><span class="summary-name">l_or</span> = <code title="1.3">1.3</code><br />
+      spazio verticale dedicato alle OR
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type"># grid_delta</span>
+    </td><td class="summary">
+        <a name="upper_block"></a><span class="summary-name">upper_block</span> = <code title="3.6">3.6</code><br />
+      coordinata verticale del centro delle NOT
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type"># grid_delta</span>
+    </td><td class="summary">
+        <a name="lower_block"></a><span class="summary-name">lower_block</span> = <code title="5">5</code><br />
+      minima spaziatura verticale tra outputs e bordo inferiore
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="grid_cols"></a><span class="summary-name">grid_cols</span> = <code title="10">10</code><br />
+      numero di colonne virtuali nella Tkinter.grid
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">range [1.0-2.0]</span>
+    </td><td class="summary">
+        <a name="grid_but_extra"></a><span class="summary-name">grid_but_extra</span> = <code title="1.8">1.8</code><br />
+      spazio aggiuntivo per il posizionamento del pulsante di run
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="x_size"></a><span class="summary-name">x_size</span> = <code title="opts.x_size">opts.x_size</code><br />
+      dimensione in pixel della lunghezza della finestra del simulatore
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="n_inputs"></a><span class="summary-name">n_inputs</span> = <code title="opts.n_inputs">opts.n_inputs</code><br />
+      numero di ingressi del circuito, corrispondente al numero di porte 
+      NOT
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="n_outputs"></a><span class="summary-name">n_outputs</span> = <code title="opts.n_outputs">opts.n_outputs</code><br />
+      numero di uscite del circuito, corrispondente al numero di OR
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="n_and"></a><span class="summary-name">n_and</span> = <code title="opts.n_and">opts.n_and</code><br />
+      numero di porte AND
+    </td>
+  </tr>
+</table>
+<!-- ==================== INSTANCE VARIABLES ==================== -->
+<a name="section-InstanceVariables"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Instance Variables</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-InstanceVariables"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="g_inputs"></a><span class="summary-name">g_inputs</span> = <code title="None">None</code><br />
+      lista dei componenti grafici della classe Component.InPin istanziati
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="g_outputs"></a><span class="summary-name">g_outputs</span> = <code title="None">None</code><br />
+      lista dei componenti grafici della classe Component.OutPin istanziati
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="g_and"></a><span class="summary-name">g_and</span> = <code title="None">None</code><br />
+      lista dei componenti grafici della classe Component.Port.And 
+      istanziati
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="g_not"></a><span class="summary-name">g_not</span> = <code title="None">None</code><br />
+      lista dei componenti grafici della classe Component.Port.Not 
+      istanziati
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="g_or"></a><span class="summary-name">g_or</span> = <code title="None">None</code><br />
+      lista dei componenti grafici della classe Component.Port.Or 
+      istanziati
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="g_fuse_in"></a><span class="summary-name">g_fuse_in</span> = <code title="None">None</code><br />
+      lista dei componenti grafici della classe Component.Fuse istanziati
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="g_fuse_out"></a><span class="summary-name">g_fuse_out</span> = <code title="None">None</code><br />
+      lista dei componenti grafici della classe Component.Fuse istanziati
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="inputs"></a><span class="summary-name">inputs</span> = <code title="[]">[]</code><br />
+      lista di variabili di classe IntVar usate per gli input
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="n_or"></a><span class="summary-name">n_or</span> = <code title="0">0</code><br />
+      numero di porte OR
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="n_not"></a><span class="summary-name">n_not</span> = <code title="0">0</code><br />
+      numero di porte NOT
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="grid_delta"></a><span class="summary-name">grid_delta</span> = <code title="0">0</code><br />
+      passo di griglia del layout del circuito
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a name="a_ratio"></a><span class="summary-name">a_ratio</span> = <code title="0">0</code><br />
+      aspect ratio della finestra del simulatore
+    </td>
+  </tr>
+</table>
+<!-- ==================== PROPERTIES ==================== -->
+<a name="section-Properties"></a>
+<table class="summary" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Properties</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-Properties"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+  <tr>
+    <td colspan="2" class="summary">
+    <p class="indent-wrapped-lines"><b>Inherited from <code>object</code></b>:
+      <code>__class__</code>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- ==================== METHOD DETAILS ==================== -->
+<a name="section-MethodDetails"></a>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Method Details</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-MethodDetails"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<a name="_layout"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_layout</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._layout">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Calcola diversi parametri derivati per stabilire il layout dei 
+  componenti. Viene anzitutto definita l'unit&#224; di griglia, che pu&#242; essere 
+  la spaziatura minima dei componenti in senso orizzontale oppure 
+  verticale, in funzione della <i>aspec ratio</i> e del numero di 
+  componenti.</p>
+  <p>Vengono successivamente stabilite le coordinate fisse dei vari 
+  componenti.</p>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="_m_init"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_m_init</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">o</span>,
+        <span class="sig-arg">c</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._m_init">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Funzione ausiliaria per inserire nel menu a tendina le descrizioni dei
+  circuiti di libreria.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>o</code></strong> (Tkinter.Menu) - riferimento al menu a tendina</li>
+        <li><strong class="pname"><code>c</code></strong> (Circuit) - circuito da inserire</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="__init__"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">__init__</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">root</span>)</span>
+    <br /><em class="fname">(Constructor)</em>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.__init__">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Inizializza il Programmable Logic Array</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>root</code></strong> (Tkinter object) - la Tk root widget</li>
+    </ul></dd>
+    <dt>Overrides:
+        object.__init__
+    </dt>
+  </dl>
+</td></tr></table>
+</div>
+<a name="nor_to_abs"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">nor_to_abs</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">n</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.nor_to_abs">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Converte coordinate normalizzate in dimensioni assolute.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>n</code></strong> (dimensione normalizzata 0..1) - coordinata iniziale</li>
+    </ul></dd>
+    <dt>Returns:</dt>
+        <dd>coordinata in dimensioni assolute [pixel]</dd>
+  </dl>
+<div class="fields">      <p><strong>Note:</strong>
+        la conversione si basa solamente sulla dimensione verticale.
+      </p>
+</div></td></tr></table>
+</div>
+<a name="add_and"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">add_and</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">y</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.add_and">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Crea una porta AND e aggiunge l'oggetto grafico nell'array 
+  corrispondente.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>y</code></strong> (dimensione normalizzata 0..1) - coordinata verticale del centro della porta</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="add_or"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">add_or</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">x</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.add_or">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Crea una porta OR e aggiunge l'oggetto grafico nell'array 
+  corrispondente.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>x</code></strong> (dimensione normalizzata 0..1) - coordinata orizzontale del centro della porta</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="add_not"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">add_not</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">x</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.add_not">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Crea una porta NOT e aggiunge l'oggetto grafico nell'array 
+  corrispondente.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>x</code></strong> (dimensione normalizzata 0..1) - coordinata orizzontale del centro della porta</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="place_inputs"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">place_inputs</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.place_inputs">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Crea tutti i pin di input e conserva gli oggetti grafici negli array. 
+  Genera inoltre i relativi collegamenti con le porte NOT.</p>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="place_outputs"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">place_outputs</span>(<span class="sig-arg">self</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.place_outputs">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Crea tutti i pin di output e conserva gli oggetti grafici negli array.
+  Genera inoltre i relativi collegamenti con le porte OR.</p>
+  <dl class="fields">
+  </dl>
+</td></tr></table>
+</div>
+<a name="_get_fuse_in"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_get_fuse_in</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">tag</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._get_fuse_in">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Restituisce l'oggetto grafico del fusibile corrispondente ad un 
+  <i>tag</i>, appartenente alla matrice IN-AND.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>tag</code></strong> - il tag del fusibile.</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="_get_fuse_out"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_get_fuse_out</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">tag</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._get_fuse_out">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Restituisce l'oggetto grafico del fusibile corrispondente ad un 
+  <i>tag</i>, appartenente alla matrice AND-OR.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>tag</code></strong> - il tag del fusibile.</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="switch_fuse_in"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">switch_fuse_in</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">tag</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.switch_fuse_in">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Realizza lo switch di un fusibile della matrice IN-AND.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>tag</code></strong> - il tag del fusibile.</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="switch_fuse_out"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">switch_fuse_out</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">tag</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.switch_fuse_out">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Realizza lo switch di un fusibile della matrice AND-OR.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>tag</code></strong> - il tag del fusibile.</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="get_tag"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">get_tag</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">x</span>,
+        <span class="sig-arg">y</span>,
+        <span class="sig-arg">comp</span>=<span class="sig-default">None</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.get_tag">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Cerca il componente pi&#249; vicino alla coordinata specificata, e ne 
+  restituisce il <i>tag</i>.</p>
+  <p>Se viene specificato l'argomento <i>comp</i> la ricerca &#232; limitata a 
+  quel tipo di componente i componenti vengono rilevati in un intervallo 
+  rettangolare di dimensioni \<i>halo</i>.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>x</code></strong> - coordinata orizzontale del punto di inizio della ricerca</li>
+        <li><strong class="pname"><code>y</code></strong> - coordinata verticale del punto di inizio della ricerca</li>
+        <li><strong class="pname"><code>comp</code></strong> (Component) - categoria di componente a cui viene limitata la ricerca</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="_event_q"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_event_q</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">event</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._event_q">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Gestore della <i>shortcut</i> da tastiera 
+  &quot;q&quot;/&quot;Q&quot;.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>event</code></strong> (instance) - evento catturato da Tkinter.bind, non utilizzato</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="_event_f"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_event_f</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">event</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._event_f">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Gestore della <i>shortcut</i> da tastiera 
+  &quot;f&quot;/&quot;F&quot;.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>event</code></strong> (instance) - evento catturato da Tkinter.bind, non utilizzato</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="_event_u"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_event_u</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">event</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._event_u">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Gestore della <i>shortcut</i> da tastiera 
+  &quot;u&quot;/&quot;U&quot;.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>event</code></strong> (instance) - evento catturato da Tkinter.bind, non utilizzato</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="_event_r"></a>
+<div class="private">
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">_event_r</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">event</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla._event_r">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Gestore della <i>shortcut</i> da tastiera 
+  &quot;r&quot;/&quot;R&quot;.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>event</code></strong> (instance) - evento catturato da Tkinter.bind, non utilizzato</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="handler"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">handler</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">event</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.handler">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Identifica il componente su cui si &#232; cliccato e esegue l'opportuna 
+  operazione.</p>
+  <p>Tipicamente viene alternato lo stato di un fusibile.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>event</code></strong> (instance) - evento catturato da Tkinter.bind, utilizzato per identificare la 
+          posizione del mouse</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="compute_and"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">compute_and</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">r</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.compute_and">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Computa la funzione di una porta logica AND.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>r</code></strong> - la riga di fusibili a cui &#232; legata la porta.</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="compute_out"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">compute_out</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">c</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.compute_out">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Computa la funzione di una porta logica OR.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>c</code></strong> - la colonna di fusibili a cui &#232; legata la porta.</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<a name="load"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr valign="top"><td>
+  <h3 class="epydoc"><span class="sig"><span class="sig-name">load</span>(<span class="sig-arg">self</span>,
+        <span class="sig-arg">circ</span>)</span>
+  </h3>
+  </td><td align="right" valign="top"
+    ><span class="codelink"><a href="pla-pysrc.html#Pla.load">source&nbsp;code</a></span>&nbsp;
+    </td>
+  </tr></table>
+  
+  <p>Carica uno dei circuiti disponibili in libreria.</p>
+  <dl class="fields">
+    <dt>Parameters:</dt>
+    <dd><ul class="nomargin-top">
+        <li><strong class="pname"><code>circ</code></strong> (Circuit) - circuito da caricare</li>
+    </ul></dd>
+  </dl>
+</td></tr></table>
+</div>
+<br />
+<!-- ==================== CLASS VARIABLE DETAILS ==================== -->
+<a name="section-ClassVariableDetails"></a>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr bgcolor="#70b0f0" class="table-header">
+  <td colspan="2" class="table-header">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+        <td align="left"><span class="table-header">Class Variable Details</span></td>
+        <td align="right" valign="top"
+         ><span class="options">[<a href="#section-ClassVariableDetails"
+         class="privatelink" onclick="toggle_private();"
+         >hide private</a>]</span></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<a name="usage"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <h3 class="epydoc">usage</h3>
+  
+  <dl class="fields">
+  </dl>
+  <dl class="fields">
+    <dt>Value:</dt>
+      <dd><table><tr><td><pre class="variable">
+&quot;&quot;&quot;%prog [-x x_size][-i n_inputs][-o n_outputs][-a n_and]&quot;&quot;&quot;
+</pre></td></tr></table>
+</dd>
+  </dl>
+</td></tr></table>
+</div>
+<br />
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            ><a class="navbar" target="_top" href="../..">Programmable Logic Array Simulator - Alice Plebe, Matteo Cavallaro</a></th>
+          </tr></table></th>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%%">
+  <tr>
+    <td align="left" class="footer">
+    Generated by Epydoc 3.0.1 on Wed Jul 18 18:06:20 2018
+    </td>
+    <td align="right" class="footer">
+      <a target="mainFrame" href="http://epydoc.sourceforge.net"
+        >http://epydoc.sourceforge.net</a>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  <!--
+  // Private objects are initially displayed (because if
+  // javascript is turned off then we want them to be
+  // visible); but by default, we want to hide them.  So hide
+  // them unless we have a cookie that says to show them.
+  checkCookie();
+  // -->
+</script>
+</body>
+</html>

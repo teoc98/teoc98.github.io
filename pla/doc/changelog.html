@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+          "http://www.w3.org/TR/html4/loose.dtd">
+<HTML LANG="it">
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<TITLE>Simulatore PLA - sommario delle modifiche</TITLE>
+<LINK REL="stylesheet" HREF="style.css" TYPE="text/css">
+</HEAD>
+<BODY>
+
+<H2>Sommario delle modifiche introdotte con la nuova versione</H2>
+<H3>PLA simulator - versione 3.0</H3>
+<H4>Jul 31 2018</H4>
+
+<P>
+Con la nuova versione il simulatore &egrave; stato reso compatibile con Python 3
+(mantenendo la precedente compatibilit&agrave; con Python 2). Sono stati inoltre 
+eliminati alcuni bug manifestatesi durante l'esecuzione su Windows. <BR>
+Infine, è stata ampliata la libreria di circuiti logici; i nuovi circuiti sono 
+elencati qui a seguito, per ulteriori dettagli consultare la 
+<A HREF="user.html" TARGET="_blank">guida utente</A>. 
+</P>
+
+<TABLE CLASS="fields">
+<TR>
+<TH>circuiti introdotti nella versione 3.0</TH>
+</TR>
+<TR>
+<TD CLASS="s4">6-bit ones' complement</TD>
+</TR>
+<TR>
+<TD CLASS="s4">4-bit twos' complement</TD>
+</TR>
+<TR>
+<TD CLASS="s4">2 bit multiplicator</TD>
+</TR>
+<TR>
+<TD CLASS="s4">6 bit square root floor</TD>
+</TR>
+<TR>
+<TD CLASS="s4">reductor 3-2</TD>
+</TR>
+<TR>
+<TD CLASS="s4">multiple logic gate</TD>
+</TR>
+<TR>
+<TD CLASS="s4">decoder 4 bit - 7 segment</TD>
+</TR>
+<TR>
+<TD CLASS="s4">one step flip-flop SR</TD>
+</TR>
+<TR>
+<TD CLASS="s4">one step flip-flop T</TD>
+</TR>
+<TR>
+<TD CLASS="s4">one step flip-flop JK</TD>
+</TR>
+<TR>
+<TD CLASS="s4">Parity check (CRC-1)</TD>
+</TR>
+<TR>
+<TD CLASS="s4">CRC-3-GSM</TD>
+</TR>
+
+</TABLE>
+
+<P>
+Il numero di porte AND di default è stato aumentato da 13 a 16, affinché tutti i circuiti 
+disponibili in libreria possano essere caricati correttamente senza dover eseguire il programma 
+con opzioni particolari. 
+</P>
+<P>
+Per semplificare le operazioni necessarie per fare una nuova versione del programma, 
+sono stati creati gli script per shell bash <TT>doc/make_epy.sh</TT> e <TT>download/make_zip.sh</TT>, 
+rispettivamente atti a rigenerare la documentazione di riferimento e ricreare il pacchetto zip
+della distribuzione. 
+</P>
+<P>
+Sono state create le funzioni <TT>generate_code</TT> e <TT>generate_obj</TT> apparetenti alla classe 
+<TT>Circuits</TT> per semplificare la creazione di nuovi circuiti. 
+</P>
+
+<!--
+	Premessa: qui si dovrebbe offrire solo una lista sintetica, rinviando 
+alla guida di utente e/o alle note di rilascio per eventuali dettagli 
+sulle modifiche apportate 
+
+Modifiche della funzionalità 
+
+   e.g., nuove funzionalità, nuove voci di menu di utente, modifiche 
+   percepibili dall'utente di funzionalità già esistenti; rinviare alla 
+   guida di utente e alle note di rilascio per motivazioni ed eventuali 
+   altri dettagli su tali modifiche 
+
+Modifiche dell'implementazione di funzionalità non modificate 
+
+   indicare qui tali modifiche solo se per funzionalità che l'utente non 
+   percepisce come diverse, se non per differenze di prestazione, ma la 
+   cui implementazione differisce da quella della versione precedente; 
+   rinviare alle note di rilascio per motivazioni ed eventuali altri 
+   dettagli su tali modifiche 
+ 
+-->
+
+<BR>
+<P>
+Per segnalazioni e contatti scrivere a <A HREF="mailto:teoc98@alwaysdata.net">Matteo Cavallaro</A>, autore della presente versione.
+</P>
+
+<BR><BR>
+<A HREF="../index.html">home page</A>
+<HR>
+
+</BODY>
+</HTML>

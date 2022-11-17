@@ -1,0 +1,126 @@
+\begin{theindex}
+
+  \item circuits \textit{(module)}, \hyperpage{3--5}
+    \subitem circuits.Circuit \textit{(class)}, \hyperpage{4--5}
+      \subsubitem circuits.Circuit.generate\_code \textit{(static method)}, 
+		\hyperpage{4}
+      \subsubitem circuits.Circuit.generate\_obj \textit{(static method)}, 
+		\hyperpage{4}
+  \item component \textit{(module)}, \hyperpage{6--26}
+    \subitem component.And \textit{(class)}, \hyperpage{13--16}
+      \subsubitem component.And.disable \textit{(method)}, 
+		\hyperpage{14}
+      \subsubitem component.And.pin\_in \textit{(method)}, 
+		\hyperpage{14}
+      \subsubitem component.And.pin\_out \textit{(method)}, 
+		\hyperpage{15}
+      \subsubitem component.And.reset \textit{(method)}, \hyperpage{14}
+      \subsubitem component.And.value \textit{(method)}, \hyperpage{14}
+    \subitem component.Component \textit{(class)}, \hyperpage{6--7}
+    \subitem component.Fuse \textit{(class)}, \hyperpage{16--19}
+      \subsubitem component.Fuse.deset \textit{(method)}, 
+		\hyperpage{17}
+      \subsubitem component.Fuse.pin\_in \textit{(method)}, 
+		\hyperpage{17}
+      \subsubitem component.Fuse.pin\_out \textit{(method)}, 
+		\hyperpage{18}
+      \subsubitem component.Fuse.reset \textit{(method)}, 
+		\hyperpage{17}
+      \subsubitem component.Fuse.toggle \textit{(method)}, 
+		\hyperpage{17}
+    \subitem component.InPin \textit{(class)}, \hyperpage{20--23}
+      \subsubitem component.InPin.disable \textit{(method)}, 
+		\hyperpage{22}
+      \subsubitem component.InPin.enable \textit{(method)}, 
+		\hyperpage{22}
+      \subsubitem component.InPin.pin\_out \textit{(method)}, 
+		\hyperpage{22}
+      \subsubitem component.InPin.reset \textit{(method)}, 
+		\hyperpage{22}
+      \subsubitem component.InPin.reset\_label \textit{(method)}, 
+		\hyperpage{21}
+      \subsubitem component.InPin.set\_label \textit{(method)}, 
+		\hyperpage{21}
+      \subsubitem component.InPin.toggle \textit{(method)}, 
+		\hyperpage{22}
+      \subsubitem component.InPin.wire\_not \textit{(method)}, 
+		\hyperpage{22}
+    \subitem component.Not \textit{(class)}, \hyperpage{8--10}
+      \subsubitem component.Not.pin\_in \textit{(method)}, 
+		\hyperpage{8}
+      \subsubitem component.Not.pin\_out \textit{(method)}, 
+		\hyperpage{8}
+    \subitem component.Or \textit{(class)}, \hyperpage{10--13}
+      \subsubitem component.Or.draw\_bottom \textit{(method)}, 
+		\hyperpage{10}
+      \subsubitem component.Or.draw\_lines \textit{(method)}, 
+		\hyperpage{10}
+      \subsubitem component.Or.draw\_top \textit{(method)}, 
+		\hyperpage{11}
+      \subsubitem component.Or.pin\_in \textit{(method)}, 
+		\hyperpage{11}
+      \subsubitem component.Or.pin\_out \textit{(method)}, 
+		\hyperpage{12}
+    \subitem component.OutPin \textit{(class)}, \hyperpage{23--26}
+      \subsubitem component.OutPin.disable \textit{(method)}, 
+		\hyperpage{24}
+      \subsubitem component.OutPin.pin\_in \textit{(method)}, 
+		\hyperpage{25}
+      \subsubitem component.OutPin.reset \textit{(method)}, 
+		\hyperpage{25}
+      \subsubitem component.OutPin.reset\_label \textit{(method)}, 
+		\hyperpage{24}
+      \subsubitem component.OutPin.set\_label \textit{(method)}, 
+		\hyperpage{24}
+      \subsubitem component.OutPin.value \textit{(method)}, 
+		\hyperpage{24}
+    \subitem component.Port \textit{(class)}, \hyperpage{7--8}
+    \subitem component.Wire \textit{(class)}, \hyperpage{19--20}
+
+  \indexspace
+
+  \item pla \textit{(module)}, \hyperpage{27--33}
+    \subitem pla.options \textit{(function)}, \hyperpage{27}
+    \subitem pla.Pla \textit{(class)}, \hyperpage{27--33}
+      \subsubitem pla.Pla.add\_and \textit{(method)}, \hyperpage{28}
+      \subsubitem pla.Pla.add\_not \textit{(method)}, \hyperpage{29}
+      \subsubitem pla.Pla.add\_or \textit{(method)}, \hyperpage{28}
+      \subsubitem pla.Pla.compute\_and \textit{(method)}, 
+		\hyperpage{30}
+      \subsubitem pla.Pla.compute\_ands \textit{(method)}, 
+		\hyperpage{31}
+      \subsubitem pla.Pla.compute\_out \textit{(method)}, 
+		\hyperpage{31}
+      \subsubitem pla.Pla.compute\_outs \textit{(method)}, 
+		\hyperpage{31}
+      \subsubitem pla.Pla.fuse\_all \textit{(method)}, \hyperpage{31}
+      \subsubitem pla.Pla.get\_tag \textit{(method)}, \hyperpage{30}
+      \subsubitem pla.Pla.handler \textit{(method)}, \hyperpage{30}
+      \subsubitem pla.Pla.load \textit{(method)}, \hyperpage{31}
+      \subsubitem pla.Pla.nor\_to\_abs \textit{(method)}, 
+		\hyperpage{28}
+      \subsubitem pla.Pla.place\_and \textit{(method)}, \hyperpage{28}
+      \subsubitem pla.Pla.place\_components \textit{(method)}, 
+		\hyperpage{30}
+      \subsubitem pla.Pla.place\_fuse\_in \textit{(method)}, 
+		\hyperpage{29}
+      \subsubitem pla.Pla.place\_fuse\_out \textit{(method)}, 
+		\hyperpage{29}
+      \subsubitem pla.Pla.place\_inputs \textit{(method)}, 
+		\hyperpage{29}
+      \subsubitem pla.Pla.place\_not \textit{(method)}, \hyperpage{29}
+      \subsubitem pla.Pla.place\_or \textit{(method)}, \hyperpage{29}
+      \subsubitem pla.Pla.place\_outputs \textit{(method)}, 
+		\hyperpage{29}
+      \subsubitem pla.Pla.place\_wire\_in \textit{(method)}, 
+		\hyperpage{29}
+      \subsubitem pla.Pla.place\_wire\_out \textit{(method)}, 
+		\hyperpage{29}
+      \subsubitem pla.Pla.reset \textit{(method)}, \hyperpage{31}
+      \subsubitem pla.Pla.run \textit{(method)}, \hyperpage{31}
+      \subsubitem pla.Pla.switch\_fuse\_in \textit{(method)}, 
+		\hyperpage{30}
+      \subsubitem pla.Pla.switch\_fuse\_out \textit{(method)}, 
+		\hyperpage{30}
+
+\end{theindex}
